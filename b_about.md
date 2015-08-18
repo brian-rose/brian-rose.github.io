@@ -19,5 +19,5 @@ I joined DAES in Fall 2013. Previously I was a postdoctoral scholar at the Unive
 
 ## Alums
 
-- Chyi-Rong Tsai, visiting undergraduate intern, Summer 2015 (*currently a senior in Atmospheric Science at National Taiwan University*)
-- Deborah McGlynn, undergraduate thesis, Fall 2014 (*currently a Masters student at SUNY ESF*)
+- **Chyi-Rong Tsai**, visiting undergraduate intern, Summer 2015 (*currently a senior in Atmospheric Science at National Taiwan University*)
+- **Deborah McGlynn**, undergraduate thesis, Fall 2014 (*currently a Masters student at SUNY ESF*)

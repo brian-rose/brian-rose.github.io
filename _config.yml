@@ -14,8 +14,9 @@ locale: en_US
 github_username:  brian-rose
 #disqus_shortname: freshman21
 favicon:     "/images/favicon.ico"
-aboutme: Brian E. J. Rose, Assistant Professor of climate dynamics. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
+aboutme: Brian E. J. Rose # these are shown on aboutme-sidebar.
+aboutme_photo: "/images/Brian-Rose.png" # your photo.
+#aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
 
 
 ### Site setting:
