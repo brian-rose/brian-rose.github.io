@@ -20,7 +20,7 @@ Some specific ongoing research interests and projects include:
 - Oceanography of Snowball Earth
 - The observed vertical structure of heat fluxes into the Arctic
 
-My [publications are here](Publications). My CV is available [here](CV).
+My [publications are here](/Publications). My CV is available [here](/CV).
 
 Some of my collaborators:
 
