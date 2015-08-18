@@ -17,11 +17,11 @@ permalink: /publications/
 
 \* *indicates student co-author*
 
-[waterbelt]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_JGR2015.pdf
-[heat uptake]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_etal_GRL2014.pdf
-[transitions]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_etal_transitions_JClim2013.pdf
-[RF13]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_Ferreira_JClim2013.pdf
-[FMR11]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/FMR_JClim2011_MultipleEq.pdf
-[RM09]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_Marshall_JAS2009.pdf
-[RL03]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_Lin_2003.pdf
-[thesis]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_PhD_2010.pdf
+[waterbelt]: {{ site.baseurl }}/resources/Publications/Rose_JGR2015.pdf
+[heat uptake]: {{ site.baseurl }}/resources/Publications/Rose_etal_GRL2014.pdf
+[transitions]: {{ site.baseurl }}/resources/Publications/Rose_etal_transitions_JClim2013.pdf
+[RF13]: {{ site.baseurl }}/resources/Publications/Rose_Ferreira_JClim2013.pdf
+[FMR11]: {{ site.baseurl }}/resources/Publications/FMR_JClim2011_MultipleEq.pdf
+[RM09]: {{ site.baseurl }}/resources/Publications/Rose_Marshall_JAS2009.pdf
+[RL03]: {{ site.baseurl }}/resources/Publications/Rose_Lin_2003.pdf
+[thesis]: {{ site.baseurl }}/resources/Publications/Rose_PhD_2010.pdf

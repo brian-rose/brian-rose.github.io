@@ -5,17 +5,17 @@ author: Brian E. J. Rose
 email: brose@albany.edu
 description: "Brian E. J. Rose, climate dynamics group at U. Albany" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 #keywords: "Jekyll, theme, Freshman21"
-#baseurl: "/freshman21" # the subpath of your site, e.g. /blog
-#url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
+baseurl: "/facstaff/brose" # the subpath of your site, e.g. /blog
+url: "http://www.atmos.albany.edu/facstaff/brose" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
 #twitter_username: yulijia
 github_username:  brian-rose
 #disqus_shortname: freshman21
-favicon:     "/images/favicon.ico"
+favicon:     "{{ site.baseurl }}/images/favicon.ico"
 aboutme: Brian E. J. Rose # these are shown on aboutme-sidebar.
-aboutme_photo: "/images/Brian-Rose.png" # your photo.
+aboutme_photo: "images/Brian-Rose.png" # your photo.
 #aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
 
 
