@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="RapidWeaver" />
+		
+		<title>Lecture notes</title>
+		<link rel="stylesheet" type="text/css" media="screen" href="../rw_common/themes/christmas/styles.css"  />
+		
+		<link rel="stylesheet" type="text/css" media="screen" href="../rw_common/themes/christmas/css/width/width_800.css" />
+		<link rel="stylesheet" type="text/css" media="screen" href="../rw_common/themes/christmas/css/color/clear.css" />
+		
+		
+		
+		
+		<script type="text/javascript" src="../rw_common/themes/christmas/javascript.js"></script>
+		
+
+		</style>
+		
+		
+		
+		
+			<!--[if IE 6]>
+	<script type="text/javascript">
+		if (navigator.platform == "Win32" && navigator.appName == "Microsoft Internet Explorer" && window.attachEvent) {
+			window.attachEvent("onload", enableAlphaImages);
+		}
+		function enableAlphaImages(){
+			var rslt = navigator.appVersion.match(/MSIE (\d+\.\d+)/, '');
+			var itsAllGood = (rslt != null && Number(rslt[1]) >= 5.5);
+			if (itsAllGood) {
+				for (var i=0; i<document.all.length; i++){
+					var obj = document.all[i];
+					var bg = obj.currentStyle.backgroundImage;
+					var img = document.images[i];
+					if (bg && bg.match(/\.png/i) != null) {
+						var img = bg.substring(5,bg.length-2);
+						var offset = obj.style["background-position"];
+						obj.style.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+img+"', sizingMethod='crop')";
+						obj.style.backgroundImage = "url('../rw_common/themes/christmas/images/blank.gif')";
+						obj.style["background-position"] = offset; // reapply
+					} else if (img && img.src.match(/\.png$/i) != null) {
+						var src = img.src;
+						img.style.width = img.width + "px";
+						img.style.height = img.height + "px";
+						img.style.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+src+"', sizingMethod='crop')";
+						img.src = "../rw_common/themes/christmas/images/blank.gif";
+					}
+
+				}
+			}
+		}
+	</script>
+	<style type="text/css">
+		
+		#container{
+			background-image: none;
+			filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='%pathto(images/opacity.png)%', sizingMethod='scale');
+		}
+		
+	</style>
+	<![endif]-->
+
+		
+	</head>
+
+
+<body>
+<div id="screenBadge">
+	
+</div>
+
+<div id="container">
+
+<div id="topContainer">
+
+
+	<div id="pageHeader"><!-- Start page header -->
+		<div id="headerLogo"></div>
+		<h1>A ATM 623: Climate Modeling </h1><br />
+		<h2></h2>
+		
+		<div class="clearer"></div>
+	
+	</div><!-- End page header -->
+</div>
+	
+	<div id="contentContainer"><!-- Start main content wrapper -->
+	
+	
+		
+				<div id="sidebarContainer"><!-- Start Sidebar wrapper -->
+				
+				<div id="navigationContainer"><!-- Start Navigation -->
+			<ul><li><a href="../index.html" rel="self">Course home</a></li><li><a href="../python/index.html" rel="self">Python</a></li><li><a href="index.html" rel="self" id="current">Lecture notes</a></li><li><a href="../assignments/index.html" rel="self">Assignments</a></li><li><a href="../handouts/index.html" rel="self">Handouts</a></li><li><a href="../references/index.html" rel="self">References</a></li><li><a href="../projects/index.html" rel="self">Term projects</a></li></ul>
+		</div><!-- End navigation --> 
+				
+		<div class="sideHeader">
+			<div id="sidebarLogo"></div>
+			
+		</div><!-- Sidebar header -->
+		<div id="sidebar"><!-- Start sidebar content -->
+			 <br /><!-- sidebar content you enter in the page inspector -->
+			 <!-- sidebar content such as the blog archive links -->
+		</div><!-- End sidebar content -->
+		</div><!-- End sidebar wrapper -->
+		
+		<div id="content"><!-- Start content -->
+			<span style="font-size:28px; ">Lecture notes<br /></span><span style="font-size:17px; "><br />The course makes extensive use of the IPython notebook format for interactive notes, code examples and reproducible calculations.<br /><br />I am making my notes available as a set of hyperlinked notebooks. </span><span style="font-size:17px; "><a href="https://github.com/brian-rose/ClimateModeling_courseware" rel="external">The notebook repository is hosted on github</a></span><span style="font-size:17px; ">.<br /><br /></span><span style="font-size:17px; font-weight:bold; ">To view the latest versions of the notes as static web pages:</span><span style="font-size:17px; "><br /></span><span style="font-size:17px; "><a href="http://nbviewer.ipython.org/github/brian-rose/ClimateModeling_courseware/blob/master/index.ipynb" rel="external">See them rendered on nbviewer here</a></span><span style="font-size:17px; "><br /><br />For a more interactive experience, you should run the notebooks on your own computer. Make a local copy of the whole repository on your computer by entering<br /></span><span style="font-size:17px; ">	</span><span style="font:15px Courier, mono; ">git clone git://github.com/brian-rose/ClimateModeling_courseware.git</span><span style="font-size:17px; "><br /></span><span style="font-size:17px; ">on your favorite command line. (This requires that git is installed on your computer).<br /><br />The repository will be continually updated through the semester. To update your local copy to the latest version, just enter this:<br /></span><span style="font-size:17px; ">	</span><span style="font:15px Courier, mono; ">git pull origin master</span><span style="font-size:17px; "><br /><br /></span><span style="font-size:17px; font-weight:bold; ">Here, for posterity, is a complete set of notes for Spring 2015 as static web pages:<br /></span><span style="font-size:17px; "><a href="http://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2015/Notes/index.html">http://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2015/Notes/index.html</a></span>
+			<div class="clearer"></div>
+		</div><!-- End content -->
+	</div><!-- End main content wrapper -->
+		
+		<div class="clearer"></div>
+		
+		<div id="footer"><!-- Start Footer -->
+		<div id="footerLogo"></div>
+		<div id="breadcrumbcontainer"><!-- Start the breadcrumb wrapper -->
+			
+		</div><!-- End breadcrumb -->
+		&copy; 2015 Brian Rose <a href="#" id="rw_email_contact">Contact Me</a><script type="text/javascript">var _rwObsfuscatedHref0 = "mai";var _rwObsfuscatedHref1 = "lto";var _rwObsfuscatedHref2 = ":br";var _rwObsfuscatedHref3 = "ose";var _rwObsfuscatedHref4 = "@al";var _rwObsfuscatedHref5 = "ban";var _rwObsfuscatedHref6 = "y.e";var _rwObsfuscatedHref7 = "du";var _rwObsfuscatedHref = _rwObsfuscatedHref0+_rwObsfuscatedHref1+_rwObsfuscatedHref2+_rwObsfuscatedHref3+_rwObsfuscatedHref4+_rwObsfuscatedHref5+_rwObsfuscatedHref6+_rwObsfuscatedHref7; document.getElementById('rw_email_contact').href = _rwObsfuscatedHref;</script>
+
+		</div><!-- End Footer -->
+	</div><!--End of Main Container-->	
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+#sidebarContainer {
+	width: 250px;
+	float: right;
+}
+
+#contentContainer #content {
+	margin-right: 300px;
+}
