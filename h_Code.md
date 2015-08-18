@@ -1,5 +1,5 @@
 ---
-title: Code and Presentations
+title: Shareables
 permalink: code/
 profile: true
 layout: page

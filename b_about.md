@@ -1,27 +1,23 @@
 ---
+title: Our group
+permalink: about/
+profile: true
 layout: page
-title: About
-comments: yes
-permalink: /about/
 ---
 
 
-### Freshman21 is a Jekyll theme.
 
-A tribute to Twenty Twelve and Twenty eleven.
+## Brian Rose
+Assistant Professor in the [Department of Atmospheric and Environmental Sciences](http://www.albany.edu/atmos/index.php) at the [University at Albany](http://www.albany.edu).
 
-I like wordpress's theme Twenty Twelve and Twenty eleven very much. 
-So I called my Jekyll theme Freshman21 (Freshman <q>twenty-first</q> , it means twenty-first century, not twenty-one), this theme is based on my former theme [Freshman](https://github.com/yulijia/freshman/).
+I joined DAES in Fall 2013. Previously I was a postdoctoral scholar at the University of Washington, hosted by [David S. Battisti](http://www.atmos.washington.edu/~david/). I completed my PhD in 2010 in the [Program in Atmospheres, Oceans and Climate](http://eaps-www.mit.edu/paoc/) at [MIT](http://www.mit.edu/).  My thesis advisor was [John Marshall](http://eaps-www.mit.edu/paoc/people/john-marshall). I first came to UW as a visiting scholar under the [NOAA Climate and Global Change Postdoctoral Fellowship](http://www.vsp.ucar.edu/cgc/index.html).
 
-Freshman21 have two main page format, one is [single column](http://yulijia.net/en/  "see demo"), the other is two columns. For more details, please see the articles on the site.
+## Graduate students
 
-<cite>Proudly enjoy using Freshman21 theme.</cite> <code>;)</code>
+- **Cameron Rencurrel**
+- **Lance Rayborn**
 
-<img title="麋鹿" src="https://i.imgur.com/Mdc4szJl.jpg" alt="麋鹿" width="580" height="668" />
+## Alums
 
-#### Hi, the picture you have seen in the sample-page is a Père David's deer photoed by my friend at Beijing Milu Park, China.
-
-Milu(麋鹿) is the chinese name of Père David's deer.
-
-
-
+- Chyi-Rong Tsai, visiting undergraduate intern, Summer 2015 (*currently a senior in Atmospheric Science at National Taiwan University*)
+- Deborah McGlynn, undergraduate thesis, Fall 2014 (*currently a Masters student at SUNY ESF*)

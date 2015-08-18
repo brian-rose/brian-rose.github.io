@@ -1,5 +1,5 @@
 ---
-title: Climate Group
+title: Climate Seminar
 permalink: climategroup/
 profile: true
 layout: page

@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 comments: yes
-permalink: /about/
+permalink: /publications/
 ---
 
 - Rose, BEJ and M.C. Rencurrel* (2015), The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. *Submitted to J. Climate*
