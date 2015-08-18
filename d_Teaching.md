@@ -2,6 +2,7 @@
 title: Teaching
 permalink: teaching/
 profile: true
+layout: page
 ---
 
 ## Spring 2015: A ATM 623: Climate Modeling

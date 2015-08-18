@@ -2,6 +2,7 @@
 title: Climate Group
 permalink: climategroup/
 profile: true
+layout: page
 ---
 
 This is an informal group of faculty, graduate students and postdocs from DAES and ASRC with research interests in climate. We meet regularly throughout the academic year for research presentations and discussion.

@@ -2,6 +2,7 @@
 title: Code and Presentations
 permalink: code/
 profile: true
+layout: page
 ---
 
 If you use my codes or find anything here useful in your own work, I would appreciate hearing about it by email.

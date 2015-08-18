@@ -2,14 +2,18 @@
 title: CV
 permalink: cv/
 profile: true
+layout: page
 ---
 
+
 # Brian E. J. Rose
+
 ## *Curriculum Vitae*
+
 Assistant Professor, Atmospheric and Environmental Sciences, University at Albany (SUNY) 
 
 Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA  
-(518) 442-4477  |  <brose@albany.edu>  
+(518) 442-4477  |  <brose@albany.edu>   
 <http://www.atmos.albany.edu/facstaff/brose/>
 
 ## Education

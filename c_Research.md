@@ -2,6 +2,7 @@
 title: Research
 permalink: research/
 profile: true
+layout: page
 ---
 
 I am broadly interested in the behavior of the climate system at the global scale. My research is oriented toward fundamental questions such as: What factors control the global mean temperature and its equator-to-pole gradient? Why has Earth's climate been more variable during some periods of the deep geological past than others? Is the climate unique, or does the Earth system possess multiple equilibria? By studying the fundamental underlying "rules" governing the climate system, we build a deeper understanding of the past and future evolution of climate on Earth, and other planets as well.
