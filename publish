@@ -1,0 +1,4 @@
+#!/bin/bash 
+#  a script to automate building and publishing changes to my website         
+jekyll build
+rsync -r _site/ br546577@ash.atmos.albany.edu:/nfs/home11/staff/brose/www/
