@@ -7,7 +7,7 @@ layout: single_column
 
 
 
-<img src="{{ site.baseurl }}/images/brian-rose.png" alt="Brian Rose" style="width: 180px;" align="left" hspace="20"/>
+<img src="{{ site.baseurl }}/images/Brian-Rose.png" alt="Brian Rose" style="width: 180px;" align="left" hspace="20"/>
 
 # Brian Rose
 Our fearless leader. Assistant Professor in the [Department of Atmospheric and Environmental Sciences](http://www.albany.edu/atmos/index.php) at the [University at Albany](http://www.albany.edu).
