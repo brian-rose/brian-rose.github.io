@@ -7,7 +7,7 @@ layout: single_column
 
 
 
-<img src="{{ site.baseurl }}/images/Brian-Rose.png" alt="Brian Rose" style="width: 180px;" align="left" hspace="20"/>
+<img src="{{ site.baseurl }}/images/Brian-Rose.png" alt="Brian Rose" style="width: 150px;" align="left" hspace="20"/>
 
 # Brian Rose
 Our fearless leader. Assistant Professor in the [Department of Atmospheric and Environmental Sciences](http://www.albany.edu/atmos/index.php) at the [University at Albany](http://www.albany.edu).
@@ -16,11 +16,14 @@ I joined [DAES](http://www.albany.edu/atmos/index.php) in Fall 2013. Previously 
 
 <br>
 
+<img src="{{ site.baseurl }}/images/CameronRencurrel.jpg" alt="Cameron Rencurrel" style="width: 150px;" align="right" hspace="20"/>
+
 # Cameron Rencurrel
+*text forthcoming*
 
 <br>
 
-<img src="{{ site.baseurl }}/images/LanceRayborn.jpg" alt="Lance Rayborn" style="width: 180px;" align="left" hspace="20"/>
+<img src="{{ site.baseurl }}/images/LanceRayborn.jpg" alt="Lance Rayborn" style="width: 150px;" align="left" hspace="20"/>
 
 # Lance Rayborn
 Hello! I am Ph.D. student working with Dr. Brian Rose in the Department of Atmospheric and Environmental Sciences at the University at Albany. I graduated summa cum laude with a B.S. in Research Meteorology and a Minor in Mathematics from Embry-Riddle Aeronautical University in 2013. 
