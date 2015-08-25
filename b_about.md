@@ -19,7 +19,7 @@ I joined [DAES](http://www.albany.edu/atmos/index.php) in Fall 2013. Previously 
 <img src="{{ site.baseurl }}/images/CameronRencurrel.jpg" alt="Cameron Rencurrel" style="width: 150px;" align="right" hspace="20"/>
 
 # Cameron Rencurrel
-*text forthcoming*
+Howdy!! My name is Cameron Rencurrel and I am a PHD student in the Department of Atmospheric and Environmental Sciences at SUNY Albany. Coming from Lake Jackson, TX, I graduated from Texas A&M University in the spring of 2014 with a B.S. in Meteorology and minors in both Mathematics and Oceanography and have been working with Dr. Brian Rose since the fall of 2014. My research interests include climate dynamics, paleoclimate, and ocean/atmosphere interactions in our climate system. In general, I am fascinated with understanding how and why a system as complex as our climate has varied over time. Presently, I am looking into how the atmosphere compensates for variations in tropical ocean heat transport in an attempt to understand what has driven climate change in the past. I can be reached at <crencurrel@albany.edu>.
 
 <br>
 
