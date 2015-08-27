@@ -12,4 +12,4 @@ The grant is entitled *CAREER: Understanding the role of oceans in the planetary
 
 The grant also provides support for continued development of the [`climlab` software package](https://github.com/brian-rose/climlab.git) for process-oriented climate modeling, and an accompanying suite of educational modules. 
 
-Here is a [UAlbany press release](http://www.albany.edu/news/60872.php) about the award. We're looking forward to five very productive and stimulating years of work!
+Here is a [UAlbany press release](http://www.albany.edu/news/60872.php) about the award. We are looking forward to five very productive and stimulating years of work!
