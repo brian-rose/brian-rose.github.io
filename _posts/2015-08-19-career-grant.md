@@ -6,7 +6,7 @@ author: Brian Rose
 category: news
 ---
 
-I'm very pleased to announce that I have received a 5-year grant from the National Science Foundation under their [Faculty Early Career Development Program (CAREER)](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503214). 
+I am very pleased to announce that I have received a 5-year grant from the National Science Foundation under their [Faculty Early Career Development Program (CAREER)](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503214). 
 
 The grant is entitled *CAREER: Understanding the role of oceans in the planetary energy budget*. It will provide critical support for our group's work studying the connections ocean heat uptake and transport and atmospheric processes (dynamical, radiative, hydrological) controlling the top-of-atmosphere radiation balance. 
 
