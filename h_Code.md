@@ -28,7 +28,7 @@ The code uses [bvp4c.m](http://www.mathworks.com/help/matlab/ref/bvp4c.html) to 
 Here are slides for a presentation on the history of climate science that I first gave at MIT in January 2008:
 [Looking Back on the Future of Climate Change]({{ site.baseurl }}/resources/LookingBackOnClimate.pdf)
 
-A better and deeper discussion of the history of the CO2-climate connection was given by [Ray Pierrehumbert in his 2012 Tyndall Lecture at AGU](http://fallmeeting.agu.org/2012/events/tyndall-lecture-gc43i-successful-predictions-video-on-demand/)
+A better and deeper discussion of the history of the CO2-climate connection was given by [Ray Pierrehumbert in his 2012 Tyndall Lecture at AGU](https://youtu.be/RICBu_P8JWI)
 
-And here is an interesting essay on [Gilbert Plass’s CO2 calculations and the surface budget fallacy](http://www.realclimate.org/index.php/archives/2010/01/plass-and-the-surface-budget-fallacy/) (also by Ray Pierrehumbert):
+And here is an interesting essay on [Gilbert Plass CO2 calculations and the surface budget fallacy](http://www.realclimate.org/index.php/archives/2010/01/plass-and-the-surface-budget-fallacy/) (also by Ray Pierrehumbert):
 

@@ -12,6 +12,6 @@ The schedule will be posted here, and also distributed through our email list:
 
 If you would like to be added to the list, just let me (Brian Rose) know.
 
-Meeting time and place: Fridays 4:15 - 5:15 pm, room ES 328
+Meeting time and place (Fall 2015): Fridays 10 - 11 am, room ES 328
 
 <iframe src="https://www.google.com/calendar/embed?src=os996p10b6146p95v3iktde3mc%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="600" height="600" frameborder="0" scrolling="no"></iframe>
