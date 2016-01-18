@@ -5,6 +5,14 @@ profile: true
 layout: page
 ---
 
+## Spring 2016: A ENV 415 / A ATM 415: Climate Laboratory
+A hands-on course in climate modeling. Learn about climate science by building and using models.
+
+Meets Tues., Thurs. 10:15 - 11:35 am in ES 328
+
+[Course website]({{ site.baseurl }}/classes/ENV415_Spring2016/)
+
+
 ## Fall 2015: A ATM 500: Atmospheric Dynamics
 New core graduate course on the fundamentals of geophysical fluid dynamics and large-scale atmospheric motions.
 

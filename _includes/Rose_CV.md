@@ -40,7 +40,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 ## Publications  	
 *reprints available at <http://www.atmos.albany.edu/facstaff/brose/>*
 
-- Rose, BEJ and M.C. Rencurrel* (2015), The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. *Revised for J. Climate*
+- Rose, BEJ and M.C. Rencurrel* (2016), The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. *Revised for J. Climate*
 - Rose, BEJ (2015), Stable “Waterbelt” climates controlled by tropical ocean heat transport: a non-linear coupled climate mechanism of relevance to Snowball Earth. J. Geophys. Res. 150, doi:10.1002/2014JD022659 [pdf reprint][waterbelt]
 - Rose, BEJ, K. Armour, D.S. Battisti, N. Feldl and D. Koll (2014), The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake. Geophys. Res. Lett. 41, doi:10.1002/2013GL058955. [pdf reprint][heat uptake]
 - Rose, BEJ, D Ferreira and J Marshall (2013), The role of oceans and sea ice in abrupt transitions between multiple climate states.  J. Climate 26, 2862-2879. [pdf reprint][transitions]
@@ -136,6 +136,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - DAES graduate committee member (2015 - )
 - Chair, planning committee for GFD / Env. Sci. teaching laboratory in E-TEC building. (2014 - )
 - Organizer, DAES Climate Group weekly seminar series (2014 - )
+- Session Convener: “Polar Climate and Predictability”, AGU Fall Meeting 2015.
 - Session Convener: “Innovative Insights into the Climate System and Climate Models: Exploring Scales and Parameter Spaces”, AGU Fall Meeting 2014.
 - Judge for Outstanding Student Presentation Awards, AGU Fall Meeting, 2013.
 - Commendation for exceptional refereeing, Nature Publishing Group, 2012.
