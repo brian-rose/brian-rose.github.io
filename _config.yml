@@ -22,6 +22,7 @@ aboutme: Brian E. J. Rose # these are shown on aboutme-sidebar.
 aboutme_photo: "http://www.atmos.albany.edu/facstaff/brose/images/Brian-Rose.png" # your photo.
 #aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
 
+gems: [jekyll-paginate]
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True
