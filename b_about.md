@@ -26,12 +26,16 @@ Howdy!! My name is Cameron Rencurrel and I am a PHD student in the Department of
 <img src="{{ site.baseurl }}/images/LanceRayborn.jpg" alt="Lance Rayborn" style="width: 150px;" align="left" hspace="20"/>
 
 # Lance Rayborn
-Hello! I am Ph.D. student working with Dr. Brian Rose in the Department of Atmospheric and Environmental Sciences at the University at Albany. I graduated summa cum laude with a B.S. in Research Meteorology and a Minor in Mathematics from Embry-Riddle Aeronautical University in 2013. 
+Hello! I am Ph.D. student working with Dr. Brian Rose in the Department of Atmospheric and Environmental Sciences at the University at Albany. I graduated summa cum laude with a B.S. in Research Meteorology and a Minor in Mathematics from Embry-Riddle Aeronautical University in 2013.
 
-My research interests include climate variability/dynamics, ocean/atmosphere interactions and aerosol/pollution effects on our climate system. Currently, I am working on understanding the effects of ocean heat uptake on cloud feedback as our climate warms. 
-Feel free to contact me at <lrayborn@albany.edu>. 
+My research interests include climate variability/dynamics, ocean/atmosphere interactions and aerosol/pollution effects on our climate system. Currently, I am working on understanding the effects of ocean heat uptake on cloud feedback as our climate warms.
+Feel free to contact me at <lrayborn@albany.edu>.
 
 <br>
+
+# Christopher Colose
+Our newest group member, recently graduated from the Atmospheric Sciences program right here at U. Albany.
+
 
 # Alums
 
