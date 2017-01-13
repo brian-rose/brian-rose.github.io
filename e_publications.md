@@ -5,9 +5,9 @@ comments: yes
 permalink: /publications/
 ---
 
-- Rose, BEJ and L. Rayborn* (2016), The effects of ocean heat uptake on transient climate sensitivity. Current Climate Change Reports (accepted). [pdf reprint][efficacy]
-- Voigt, A., M. Biasutti, J. Scheff, J. Bader, S. Bordoni, F. Codron, R.D. Dixon, S. Kang, N.P. Klingaman, R. Leung, J. Liu, B. Mapes, E.A. Maroon, S. McDermid, J. Park, R. Roehrig, B.E.J. Rose, J. Seo, T. Toniazzo, M. Yoshimori, and L.R.V. Zeppetello (2016), The Tropical Rain belts with an Annual Cycle and Continent Model Intercomparison Project: TRACMIP. JAMES (submitted).
-- Hoffman, P.F., D.S. Abbot, Y. Ashkenazy, D.I. Benn, P.A. Cohen, G.M. Cox, J.R. Creveling, Y. Donnadieu, D.H. Erwin, I.J. Fairchild, D. Ferreira, J.C. Goodman, G.P. Halverson, M.F. Jansen, G.L. Hir, G.D. Love, F.A. Macdonald, A.C. Maloof, G. Ramstein, B.E.J. Rose, C.V. Rose, E. Tziperman, A. Voigt, and S.G. Warren (2016), Climate dynamics of Snowball Earth and Cryogenian geology-geobiology. Science Advances (submitted).
+- Rose, BEJ and L. Rayborn* (2016), The effects of ocean heat uptake on transient climate sensitivity. Current Climate Change Reports 2, 190--201, doi:10.1007/s40641-016-0048-4. [pdf reprint][efficacy]
+- Voigt, A., M. Biasutti, J. Scheff, J. Bader, S. Bordoni, F. Codron, R.D. Dixon, J. Jonas, S.M. Kang, N.P. Klingaman, R. Leung, J. Lu, B. Mapes, E.A. Maroon, S. McDermid, J. Park, R. Roehrig, B.E.J. Rose, G.L. Russell, J. Seo, T. Toniazzo, H. Wei, M. Yoshimori, and L.R.V. Zeppetello (2016), The Tropical Rain belts with an Annual Cycle and Continent Model Intercomparison Project: TRACMIP. J. Adv. Model. Earth Syst. (accepted), doi:10.1002/2016MS000748 [pdf preprint][tracmip]
+- Hoffman, P.F., D.S. Abbot, Y. Ashkenazy, D.I. Benn, P.A. Cohen, G.M. Cox, J.R. Creveling, Y. Donnadieu, D.H. Erwin, I.J. Fairchild, D. Ferreira, J.C. Goodman, G.P. Halverson, M.F. Jansen, G.L. Hir, G.D. Love, F.A. Macdonald, A.C. Maloof, G. Ramstein, B.E.J. Rose, C.V. Rose, E. Tziperman, A. Voigt, and S.G. Warren, Climate dynamics of Snowball Earth and Cryogenian geology-geobiology. Science Advances (in revision).
 - Rose, BEJ and M.C. Rencurrel* (2016), The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. J. Climate (in press) [pdf preprint][water vapor]
 - Rose, BEJ (2015), Stable "Waterbelt" climates controlled by tropical ocean heat transport: a non-linear coupled climate mechanism of relevance to Snowball Earth. J. Geophys. Res. 150, doi:10.1002/2014JD022659 [pdf reprint][waterbelt]
 - Rose, BEJ, K. Armour, D.S. Battisti, N. Feldl and D. Koll (2014), The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake. Geophys. Res. Lett. 41, doi:10.1002/2013GL058955. [pdf reprint][heat uptake]
@@ -20,6 +20,7 @@ permalink: /publications/
 
 \* *indicates student co-author*
 
+[tracmip]:{{ site.baseurl }}/resources/Publications/Voigt_et_al-2016-Journal_of_Advances_in_Modeling_Earth_Systems.pdf
 [efficacy]: {{ site.baseurl }}/resources/Publications/Rose_Rayborn_CCCR2016.pdf
 [water vapor]: {{ site.baseurl }}/resources/Publications/Rose_Rencurrel_JClim2016.pdf
 [waterbelt]: {{ site.baseurl }}/resources/Publications/Rose_JGR2015.pdf

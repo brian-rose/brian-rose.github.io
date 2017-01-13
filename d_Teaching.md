@@ -5,6 +5,13 @@ profile: true
 layout: page
 ---
 
+## Spring 2017: A ATM 623: Climate Modeling
+Advanced graduate course in the theory and practice of modeling the climate system and climate processes.
+
+Meets Tues, Thurs. 1:15 - 2:35 pm in ES 328
+
+[Course website]({{ site.baseurl }}/classes/ATM623_Spring2017/)
+
 ## Fall 2016: A ATM 500: Atmospheric Dynamics
 Core graduate course on the fundamentals of geophysical fluid dynamics and large-scale atmospheric motions.
 
