@@ -5,4 +5,4 @@ profile: true
 layout: page
 ---
 
-  {% include Rose_CV.md %}
+  Find my [latest CV on github](https://github.com/brian-rose/CV/blob/master/Rose_CV.pdf)
