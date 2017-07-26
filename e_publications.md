@@ -12,7 +12,7 @@ permalink: /publications/
 ### 2017
 
 - Rose, BEJ, TW Cronin and CM Bitz (2017), Ice Caps and Ice Belts: the effects of obliquity on ice-albedo feedback. Astrophys. J. (in press). [pdf preprint][ice belt]
-- Haugstad, AD*, KC Armour, DS Battisti and BEJ Rose, Relative roles of surface temperature and climate forcing patterns in the inconstancy of radiative feedbacks. Geophys. Res. Lett. (in press), doi:10.1002/2017GL074372.
+- Haugstad, AD*, KC Armour, DS Battisti and BEJ Rose, Relative roles of surface temperature and climate forcing patterns in the inconstancy of radiative feedbacks. Geophys. Res. Lett. (in press), doi:10.1002/2017GL074372. [pdf preprint][haugstad sst]
 
 ### 2016
 
@@ -52,7 +52,7 @@ permalink: /publications/
 
 
 [ice belt]:{{ site.baseurl }}/resources/Publications/Rose_Cronin_Bitz_ApJ_accepted.pdf
-[haugstad sst]:{{ site.baseurl }}/resources/Publications/Haugstad_Armour_Battisti_Rose_GRL_accepted.pdf
+[haugstad sst]:{{ site.baseurl }}/resources/Publications/Haugstad_et_al-2017-Geophysical_Research_Letters.pdf
 [tracmip]:{{ site.baseurl }}/resources/Publications/Voigt_et_al-2016-TRACMIP.pdf
 [efficacy]: {{ site.baseurl }}/resources/Publications/Rose_Rayborn_CCCR2016.pdf
 [water vapor]: {{ site.baseurl }}/resources/Publications/Rose_Rencurrel_JClim2016.pdf
