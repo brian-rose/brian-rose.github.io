@@ -8,7 +8,7 @@ layout: page
 ## Fall 2017: A ATM 500: Atmospheric Dynamics
 Core graduate course on the fundamentals of geophysical fluid dynamics and large-scale atmospheric motions.
 
-Meets Tues, Thurs. 10:15 - 11:35 am in ES B-13
+Meets Tues, Thurs. 10:15 - 11:35 am in ES B13
 
 [Course website]({{ site.baseurl }}/classes/ATM500_Fall2017/)
 
