@@ -10,7 +10,7 @@ permalink: /publications/
 ## Published and accepted
 
 ### 2017
-
+- Singh, H.A., P.J. Rasch and B.E.J. Rose (2017), Increased Ocean Heat Convergence into the High Latitudes with CO2-Doubling Enhances Polar-Amplified Warming. Geophys. Res. Lett. (in press).
 - Rose, BEJ, TW Cronin and CM Bitz (2017), Ice Caps and Ice Belts: the effects of obliquity on ice-albedo feedback. Astrophys. J. (in press). [pdf preprint][ice belt]
 - Haugstad, AD*, KC Armour, DS Battisti and BEJ Rose, Relative roles of surface temperature and climate forcing patterns in the inconstancy of radiative feedbacks. Geophys. Res. Lett. (in press), doi:10.1002/2017GL074372. [pdf preprint][haugstad sst]
 
@@ -46,7 +46,6 @@ permalink: /publications/
 ## Under review / in prep
 
 - Hoffman, P.F., D.S. Abbot, Y. Ashkenazy, D.I. Benn, P.A. Cohen, G.M. Cox, J.R. Creveling, Y. Donnadieu, D.H. Erwin, I.J. Fairchild, D. Ferreira, J.C. Goodman, G.P. Halverson, M.F. Jansen, G.L. Hir, G.D. Love, F.A. Macdonald, A.C. Maloof, G. Ramstein, B.E.J. Rose, C.V. Rose, E. Tziperman, A. Voigt, and S.G. Warren (2017), Snowball Earth climate dynamics and Cryogenian geology–geobiology. Science Advances (revised).
-- Singh, H.A., P.J. Rasch and B.E.J. Rose (2017), Increased Ocean Heat Transports into the High Latitudes with CO2-Doubling Enhance Polar-Amplified Warming. Geophys. Res. Lett. (in revision).
 - Rose, B.E.J., Climate in the absence of ocean heat transport. (in prep)
 - Rencurrel, M.C.* and B.E.J. Rose, Climatic response to wide variations in ocean heat transport: perspectives from surface and top-of-atmosphere. (in prep.)
 

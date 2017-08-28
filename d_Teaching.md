@@ -5,6 +5,13 @@ profile: true
 layout: page
 ---
 
+## Fall 2017: A ATM 500: Atmospheric Dynamics
+Core graduate course on the fundamentals of geophysical fluid dynamics and large-scale atmospheric motions.
+
+Meets Tues, Thurs. 10:15 - 11:35 am in ES B-13
+
+[Course website]({{ site.baseurl }}/classes/ATM500_Fall2017/)
+
 ## Spring 2017: A ATM 623: Climate Modeling
 Advanced graduate course in the theory and practice of modeling the climate system and climate processes.
 
