@@ -11,8 +11,8 @@ permalink: /publications/
 
 ### 2017
 - Singh, H.A., P.J. Rasch and B.E.J. Rose (2017), Increased Ocean Heat Convergence into the High Latitudes with CO2-Doubling Enhances Polar-Amplified Warming. Geophys. Res. Lett. (in press).
-- Rose, BEJ, TW Cronin and CM Bitz (2017), Ice Caps and Ice Belts: the effects of obliquity on ice-albedo feedback. Astrophys. J. (in press). [pdf preprint][ice belt]
-- Haugstad, AD*, KC Armour, DS Battisti and BEJ Rose, Relative roles of surface temperature and climate forcing patterns in the inconstancy of radiative feedbacks. Geophys. Res. Lett. (in press), doi:10.1002/2017GL074372. [pdf preprint][haugstad sst]
+- Rose, BEJ, TW Cronin and CM Bitz (2017), Ice Caps and Ice Belts: the effects of obliquity on ice-albedo feedback. Astrophys. J. 846, doi:10.3847/1538-4357/aa8306 [pdf preprint][ice belt]
+- Haugstad, AD*, KC Armour, DS Battisti and BEJ Rose, Relative roles of surface temperature and climate forcing patterns in the inconstancy of radiative feedbacks. Geophys. Res. Lett. 44, doi:10.1002/2017GL074372. [pdf preprint][haugstad sst]
 
 ### 2016
 
