@@ -33,6 +33,6 @@ Our newest group member, recently graduated from the Atmospheric Sciences progra
 
 # Alums
 
-- **Lance Rayborn**, MS thesis completed 12/2016: *Understanding the Dependence of Radiative Feedbacks and Clouds on the Spatial Structure of Ocean Heat Uptake*
+- **Lance Rayborn**, MS thesis completed 12/2016: *Understanding the Dependence of Radiative Feedbacks and Clouds on the Spatial Structure of Ocean Heat Uptake*. (*currently a Research Associate at the Pacific Northwest National Laboratory*)
 - **Chyi-Rong Tsai**, visiting undergraduate intern, Summer 2015 (*currently a senior in Atmospheric Science at National Taiwan University*)
 - **Deborah McGlynn**, undergraduate thesis, Fall 2014 (*currently a Masters student at SUNY ESF*)
