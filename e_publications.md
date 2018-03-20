@@ -52,11 +52,11 @@ permalink: /publications/
 
 ## Under review / in prep
 
-- Rencurrel, M.C.* and B.E.J. Rose (2018), Exploring the climatic response to wide variations in ocean heat transport on an aquaplanet (submitted to J. Clim.)
+- Rencurrel, M.C.* and B.E.J. Rose (2018), Exploring the climatic response to wide variations in ocean heat transport on an aquaplanet (in revision for J. Clim.)
+- Dai, A, D. Huang, B.E.J. Rose, J. Zhu and X. Tian (2018), New Estimates of the Equilibrium Climate Sensitivity in Coupled Climate Models (submitted to Climate Dynamics)
 - Rose, B.E.J., Climate in the absence of ocean heat transport. (to be submitted to J. Adv. Model. Earth
   Syst.)
 - Cardinale, C.*, B.E.J. Rose and A.L. Lang, Stratospheric and Tropospheric Contributions to the Poleward Energy Flux Across 70ºN and 65ºS (to be submitted to J. Atmos. Sci.)
-- A. Dai, D. Huang, B.E.J. Rose, J. Zhu and X. Tian, New Estimates of the Equilibrium Climate Sensitivity in Coupled Climate Models (to be submitted to Climate Dynamics)
 - Rose, B.E.J., L. Rayborn* and N. Feldl, Understanding the Dependence of Radiative Feedbacks and Clouds on the Spatial Structure of Ocean Heat Uptake. (in prep.)
 - Rencurrel, M.C.* and B.E.J. Rose, Understanding the Hadley circulation response to wide variations in ocean heat transport. (in prep.)
 
