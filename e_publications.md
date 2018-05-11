@@ -9,6 +9,11 @@ permalink: /publications/
 
 ## Published and accepted
 
+### 2018
+
+- Rencurrel, M.C.* and B.E.J. Rose (2018), Exploring the climatic response to wide variations in ocean heat transport on an aquaplanet. J. Climate, in press, doi:10.1175/JCLI-D-17-0856.1 [pdf preprint][rencurrel_oht]
+- Rose, B.E.J. (2018), CLIMLAB: a Python toolkit for interactive, process-oriented climate modeling. J. Open Source Software, 3(24), 659, doi:10.21105/joss.00659 [pdf reprint][climlab]
+
 ### 2017
 - Hoffman, P.F., D.S. Abbot, Y. Ashkenazy, D.I. Benn, J.J. Brocks, P.A. Cohen, G.M.
   Cox, J.R. Creveling, Y. Donnadieu, D.H. Erwin, I.J. Fairchild, D.
@@ -52,7 +57,6 @@ permalink: /publications/
 
 ## Under review / in prep
 
-- Rencurrel, M.C.* and B.E.J. Rose (2018), Exploring the climatic response to wide variations in ocean heat transport on an aquaplanet (in revision for J. Clim.)
 - Dai, A, D. Huang, B.E.J. Rose, J. Zhu and X. Tian (2018), New Estimates of the Equilibrium Climate Sensitivity in Coupled Climate Models (submitted to Climate Dynamics)
 - Rose, B.E.J., Climate in the absence of ocean heat transport. (to be submitted to J. Adv. Model. Earth
   Syst.)
@@ -61,6 +65,8 @@ permalink: /publications/
 - Rencurrel, M.C.* and B.E.J. Rose, Understanding the Hadley circulation response to wide variations in ocean heat transport. (in prep.)
 
 
+[climlab]:{{ site.baseurl }}/resources/Publications/Rose_JOSS2018.pdf
+[rencurrel_oht]:{{ site.baseurl }}/resources/Publications/Rencurrel_Rose_jcli-d-17-0856.1.pdf
 [singh_oht]:{{ site.baseurl }}/resources/Publications/Singh_et_al-2017-Geophysical_Research_Letters-2.pdf
 [ice belt]:{{ site.baseurl }}/resources/Publications/Rose_Cronin_Bitz_ApJ_accepted.pdf
 [haugstad sst]:{{ site.baseurl }}/resources/Publications/Haugstad_et_al-2017-Geophysical_Research_Letters.pdf
