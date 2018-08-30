@@ -5,6 +5,13 @@ profile: true
 layout: page
 ---
 
+## Fall 2018: A ATM 500: Atmospheric Dynamics
+Core graduate course on the fundamentals of geophysical fluid dynamics and large-scale atmospheric motions.
+
+Meets Tues, Thurs. 10:15 - 11:35 am in ES B13
+
+[Course website]({{ site.baseurl }}/classes/ATM500_Fall2018/)
+
 ## Spring 2018: A ENV 415 / A ATM 415: Climate Laboratory
 A hands-on course in climate modeling. Learn about climate science by building and using models.
 
