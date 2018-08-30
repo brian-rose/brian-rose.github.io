@@ -11,7 +11,7 @@ permalink: /publications/
 
 ### 2018
 
-- Rencurrel, M.C.* and B.E.J. Rose (2018), Exploring the climatic response to wide variations in ocean heat transport on an aquaplanet. J. Climate, in press, doi:10.1175/JCLI-D-17-0856.1 [pdf preprint][rencurrel_oht]
+- Rencurrel, M.C.* and B.E.J. Rose (2018), Exploring the climatic response to wide variations in ocean heat transport on an aquaplanet. J. Climate 31, 6299--6318, doi:10.1175/JCLI-D-17-0856.1 [pdf preprint][rencurrel_oht]
 - Rose, B.E.J. (2018), CLIMLAB: a Python toolkit for interactive, process-oriented climate modeling. J. Open Source Software, 3(24), 659, doi:10.21105/joss.00659 [pdf reprint][climlab]
 
 ### 2017
@@ -57,12 +57,12 @@ permalink: /publications/
 
 ## Under review / in prep
 
-- Dai, A, D. Huang, B.E.J. Rose, J. Zhu and X. Tian (2018), New Estimates of the Equilibrium Climate Sensitivity in Coupled Climate Models (submitted to Climate Dynamics)
-- Rose, B.E.J., Climate in the absence of ocean heat transport. (to be submitted to J. Adv. Model. Earth
-  Syst.)
-- Cardinale, C.*, B.E.J. Rose and A.L. Lang, Stratospheric and Tropospheric Contributions to the Poleward Energy Flux Across 70ºN and 65ºS (to be submitted to J. Atmos. Sci.)
+- Cardinale, C.*, B.E.J. Rose and A.L. Lang, Stratospheric and Tropospheric Contributions to the Poleward Energy Flux Across 70ºN and 65ºS (under revision for J. Climate)
+- Dai, A, D. Huang, B.E.J. Rose, J. Zhu and X. Tian (2018), New Estimates of the Equilibrium Climate Sensitivity in Coupled Climate Models (under revision for Climate Dynamics)
+- Rencurrel, M.C.* and B.E.J. Rose, Understanding the Hadley circulation response to wide variations in ocean heat transport. (to be submitted to J. Climate)
+- Rose, B.E.J., Climate in the absence of ocean heat transport. (to be submitted to Geophys. Res. Lett.)
 - Rose, B.E.J., L. Rayborn* and N. Feldl, Understanding the Dependence of Radiative Feedbacks and Clouds on the Spatial Structure of Ocean Heat Uptake. (in prep.)
-- Rencurrel, M.C.* and B.E.J. Rose, Understanding the Hadley circulation response to wide variations in ocean heat transport. (in prep.)
+- Paiewonsky, P.*, O. Elison Timm and B.E.J. Rose (2018), State dependency of the forest-tundra-short wave feedback: comparing the mid-Pliocene and pre-industrial eras using a newly-developed vegetation model. (in prep.)
 
 
 [climlab]:{{ site.baseurl }}/resources/Publications/Rose_JOSS2018.pdf
