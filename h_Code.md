@@ -7,6 +7,13 @@ layout: page
 
 If you use my codes or find anything here useful in your own work, I would appreciate hearing about it by email.
 
+## Public presentation: "Climate Sensitivity in an Uncertain World" (Science on Tap, October 2018)
+
+I gave this presentation at Slidin' Dirty in Schenectady NY as a special [Science on Tap](https://www.capsciny.org/project/science-on-tap/) event coinciding with the [MiSci Science Festival](https://www.misci.org/events/science-festival). My talk was about the concept of climate sensitivity, and some of the difficulties around using historical observations to infer future sensitivity. 
+
+The slides are available here [in pdf format (.pdf)]({{ site.baseurl }}/resources/SensitivityUncertain.pdf) or [in Apple Keynote format (.key)]({{ site.baseurl }}/resources/SensitivityUncertain.key).
+
+
 ## AMS Tools of the Trade presentation: Reproducible workflows with Jupyter notebooks
 
 In January 2018 I gave an invited presentation at the Tools of the Trade session of the AMS Student Conference, where I discussed the use of the Jupyter notebook and other Python-based tools for open and reproducible workflows in atmospheric sciences. All the material is available online:
