@@ -9,6 +9,10 @@ permalink: /publications/
 
 ## Published and accepted
 
+### 2020
+
+- Rencurrel, M.C.* and B.E.J. Rose (2020), The Efficiency of the Hadley Cell Response to Wide Variations in Ocean Heat Transport. J. Climate 33, 1643--1658, doi:10.1175/JCLI-D-19-0334.1 [pdf preprint][rencurrel_hc]
+
 ### 2018
 
 - Rencurrel, M.C.* and B.E.J. Rose (2018), Exploring the climatic response to wide variations in ocean heat transport on an aquaplanet. J. Climate 31, 6299--6318, doi:10.1175/JCLI-D-17-0856.1 [pdf preprint][rencurrel_oht]
@@ -65,6 +69,7 @@ permalink: /publications/
 - Paiewonsky, P.*, O. Elison Timm and B.E.J. Rose (2018), State dependency of the forest-tundra-short wave feedback: comparing the mid-Pliocene and pre-industrial eras using a newly-developed vegetation model. (in prep.)
 
 
+[rencurrel_hc]:{{ site.baseurl }}/resources/Publications/Rencurrel_Rose_JClim2020.pdf
 [climlab]:{{ site.baseurl }}/resources/Publications/Rose_JOSS2018.pdf
 [rencurrel_oht]:{{ site.baseurl }}/resources/Publications/Rencurrel_Rose_jcli-d-17-0856.1.pdf
 [singh_oht]:{{ site.baseurl }}/resources/Publications/Singh_et_al-2017-Geophysical_Research_Letters-2.pdf

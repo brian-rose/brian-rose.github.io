@@ -5,6 +5,13 @@ profile: true
 layout: page
 ---
 
+## Spring 2020: A ENV 415 / A ATM 415: Climate Laboratory
+A hands-on course in climate modeling. Learn about climate science by building and using models.
+
+Meets Tues., Thurs. 1:15 - 2:35 pm in ES B13
+
+[Course website]({{ site.baseurl }}/classes/ENV415_Spring2020/)
+
 ## Fall 2019: A ATM 500: Atmospheric Dynamics
 Core graduate course on the fundamentals of geophysical fluid dynamics and large-scale atmospheric motions.
 
