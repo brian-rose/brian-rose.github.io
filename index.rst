@@ -26,9 +26,9 @@ Climate dynamics and modeling group at the University at Albany
 
 
 
-Indices and tables
-==================
+.. Indices and tables
+  ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+  * :ref:`genindex`
+  * :ref:`modindex`
+  * :ref:`search`
