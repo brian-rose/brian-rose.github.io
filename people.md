@@ -1,6 +1,6 @@
-# Group Members
+# Our group
 
-<img src="{{ site.baseurl }}/images/Brian-Rose.png" alt="Brian Rose" style="width: 150px;" align="left" hspace="20"/>
+<img src="/_static/images/Brian-Rose.png" alt="Brian Rose" style="width: 150px;" align="left" hspace="20"/>
 
 ## Brian Rose
 
@@ -10,7 +10,7 @@ I joined [DAES](http://www.albany.edu/atmos/index.php) in Fall 2013. Previously 
 
 <br>
 
-<img src="{{ site.baseurl }}/images/CameronRencurrel.jpg" alt="Cameron Rencurrel" style="width: 150px;" align="right" hspace="20"/>
+<img src="/_static/images/CameronRencurrel.jpg" alt="Cameron Rencurrel" style="width: 150px;" align="right" hspace="20"/>
 
 ## Cameron Rencurrel
 

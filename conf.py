@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Rose group at UAlbany'
+project = 'Rose research group at UAlbany'
 copyright = '2020, Brian E. J. Rose'
 author = 'Brian E. J. Rose'
 
@@ -28,8 +28,12 @@ author = 'Brian E. J. Rose'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = ['myst_parser',
+              #'myst_nb',
+              'sphinx_panels',
               'sphinxcontrib.bibtex',
-              'sphinxcontrib.jinja',
+              #'sphinxcontrib.jinja',
+              'ablog',
+              'sphinx.ext.intersphinx',
              ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -46,9 +50,53 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+#html_theme = 'alabaster'
+html_theme = "pydata_sphinx_theme"
+
+html_theme_options = {
+  "github_url": "https://github.com/brian-rose/",
+  "twitter_url": "https://twitter.com/BrianEJRose",
+  "search_bar_text": "Search this site...",
+  #"google_analytics_id": "UA-88310237-1",
+  "search_bar_position": "navbar",
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+html_extra_path = ["feed.xml"]
+html_sidebars = {
+    "index": ["hello.html", "twitterfeed.html"],
+    "people": ["hello.html", "twitterfeed.html"],
+    "teaching": ["hello.html", "twitterfeed.html"],
+    "publications": ["hello.html", "twitterfeed.html"],
+    "climlab": ["hello.html", "twitterfeed.html"],
+    "climategroup": ["hello.html"],
+    "miscellany": ["hello.html", "twitterfeed.html"],
+    "posts/**": ['postcard.html', 'recentposts.html', 'archives.html'],
+    "blog": ['tagcloud.html', 'archives.html'],
+    "blog/**": ['postcard.html', 'recentposts.html', 'archives.html']
+}
+#blog_baseurl = "https://predictablynoisy.com"
+blog_title = "Rose group news"
+blog_path = "blog"
+blog_authors = {'Brian': ('Brian E. J. Rose', 'http://www.atmos.albany.edu/facstaff/brose')}
+blog_default_author = "Brian"
+fontawesome_included = True
+blog_post_pattern = "posts/*/*"
+post_redirect_refresh = 1
+post_auto_image = 1
+post_auto_excerpt = 2
+#disqus_shortname = "chrisholdgraf"
+
+# Panels config
+panels_add_boostrap_css = False
+
+# MyST config
+myst_admonition_enable = True
+myst_deflist_enable = True
+myst_html_img_enable = True
+
+def setup(app):
+    app.add_css_file("custom.css")
