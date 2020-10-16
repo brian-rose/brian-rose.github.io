@@ -105,3 +105,30 @@ div.timeline div.entry.left::after {
 div.timeline div.entry.right::after {
     left: -.5em;
 }
+
+/* stuff for the people page */
+
+img.biopic {
+  float: right;
+  margin-left: 15px;
+}
+
+div.section::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+#group-members.section h3::before {
+  clear: both;
+}
+
+
+#group-members.section img {
+}
+
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
+}

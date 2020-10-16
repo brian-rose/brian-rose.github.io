@@ -31,7 +31,7 @@ extensions = ['myst_parser',
               #'myst_nb',
               'sphinx_panels',
               'sphinxcontrib.bibtex',
-              #'sphinxcontrib.jinja',
+              'sphinxcontrib.jinja',
               'ablog',
               'sphinx.ext.intersphinx',
              ]
@@ -100,3 +100,11 @@ myst_html_img_enable = True
 
 def setup(app):
     app.add_css_file("custom.css")
+
+# load data
+jinja_contexts = {}
+import yaml
+with open('_data/people.yml') as people_data_file:
+    people = yaml.load(people_data_file)
+    jinja_contexts['people'] = {'people': people['current']}
+    jinja_contexts['alumni'] = {'alumni': people['alumni']}
