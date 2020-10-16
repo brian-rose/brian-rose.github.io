@@ -4,8 +4,11 @@ Welcome to the homepage for the Climate Dynamics and Modeling research group
 housed in the [Department of Atmospheric & Environmental Sciences](https://www.albany.edu/daes)
 at the [University at Albany](https://www.albany.edu)!
 
-Here you'll find information and links about our group and all our activities
-in research, education, outreach, and open-source software.
+Here you'll find information and links [about our group](people) and all our activities
+in [research](research), [teaching](teaching), [outreach](miscellany),
+and [open-source software](climlab).
+
+If you're looking for Brian's complete CV, find it [here on github](https://github.com/brian-rose/CV/blob/master/Rose_CV.pdf).
 
 ## Recent news
 

@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Rose research group at UAlbany'
+project = 'Rose group Home'
 copyright = '2020, Brian E. J. Rose'
 author = 'Brian E. J. Rose'
 
@@ -68,12 +68,12 @@ html_static_path = ['_static']
 html_extra_path = ["feed.xml"]
 html_sidebars = {
     "index": ["hello.html", "twitterfeed.html"],
-    "people": ["hello.html", "twitterfeed.html"],
-    "teaching": ["hello.html", "twitterfeed.html"],
-    "publications": ["hello.html", "twitterfeed.html"],
-    "climlab": ["hello.html", "twitterfeed.html"],
+    "people": ["hello.html"],
+    "teaching": ["hello.html"],
+    "publications": ["hello.html"],
+    "climlab": ["hello.html"],
     "climategroup": ["hello.html"],
-    "miscellany": ["hello.html", "twitterfeed.html"],
+    "miscellany": ["hello.html"],
     "posts/**": ['postcard.html', 'recentposts.html', 'archives.html'],
     "blog": ['tagcloud.html', 'archives.html'],
     "blog/**": ['postcard.html', 'recentposts.html', 'archives.html']
