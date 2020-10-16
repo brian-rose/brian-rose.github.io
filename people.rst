@@ -1,4 +1,4 @@
-Group Members
+People
 =============
 
 .. jinja:: people

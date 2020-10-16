@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Rose group Home'
+project = 'Rose Group Home'
 copyright = '2020, Brian E. J. Rose'
 author = 'Brian E. J. Rose'
 
@@ -70,6 +70,7 @@ html_sidebars = {
     "index": ["hello.html", "twitterfeed.html"],
     "people": ["hello.html"],
     "teaching": ["hello.html"],
+    "research": ["hello.html"],
     "publications": ["hello.html"],
     "climlab": ["hello.html"],
     "climategroup": ["hello.html"],
