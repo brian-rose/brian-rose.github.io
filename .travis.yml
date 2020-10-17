@@ -8,6 +8,4 @@ env:
 script:
   - set -e
   - make html
-  - cd ..
-  - pip install doctr
-  - doctr deploy . --built-docs _build/html --deploy-repo https://github.com/brian-rose/brian-rose.github.io
+  - doctr deploy . --built-docs _build/html --deploy-repo brian-rose/brian-rose.github.io
