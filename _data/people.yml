@@ -1,0 +1,52 @@
+current:
+  Principal_Investigator:
+    - name: Brian Rose
+      pronouns: he / him
+      pic: BR_headshot_cropped.png
+      bio: >
+        Fearless leader of the Rose research group!
+        I'm passionate about science, education, math, the Earth,
+        open-source software, bicycles, building communities,
+        music (stringed instruments especially),
+        food, drink, and family. When I'm not working, I'm basically a hobbit.
+      email: brose@albany.edu
+      website: http://brian-rose.github.io
+      scholar: 4y0d5wAAAAJ
+      github: brian-rose
+      orcid: 0000-0002-9961-3821
+      twitter: BrianEJRose
+      linkedin: brian-rose-37bb55106
+
+  Graduate_Students:
+    - name: Christopher Cardinale
+      email: ccardinale@albany.edu
+      bio: Atmospheric energy transport and polar climate
+
+    - name: Fangze Zhu
+      email: fzhu@albany.edu
+      bio: Multiple equilibria of the coupled climate system
+
+alumni:
+  - name: Cameron Rencurrel
+    position: Ph.D. Student, 2014-2020
+    current_position: Postdoc, Texas A&M
+    website: https://ocean.tamu.edu/people/profiles/research-staff/rencurrelmichael.html
+
+  - name: Lance Rayborn
+    position: MS student, 2015-2016
+    current_position: Research Associate at Pacific Northwest National Laboratory
+    linkedin: https://www.linkedin.com/in/lance-rayborn/
+
+  - name: Duan-Heng Chang
+    position: Visiting research intern, summer 2019
+    current_position: Undergradute student at National Taiwan University
+    website: https://www.linkedin.com/in/duan-heng-chang-39aa00125/
+
+  - name: Chyi-Rong Tsai
+    position: Visiting research intern, summer 2015
+    current_position: Research Assistant, Institute of Sociology, Academia Sinica, Taiwan
+    website: https://twitter.com/chyirong
+
+  - name: Deborah McGlynn
+    position: Undergradute thesis, Fall 2014
+    current_position: MS student at SUNY ESF
