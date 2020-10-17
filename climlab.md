@@ -70,7 +70,7 @@ and graduate Climate Modeling (ATM 623) courses at [UAlbany][ualbany]
 (see [Teaching page](teaching) for links).
 
 [ualbany]: https://www.albany.edu
-[jupyterbook]: https://jupyterbook.org
+[jupyterbook]: https://executablebooks.org/en/latest/tools.html#jupyter-book
 [climlab]: https://github.com/brian-rose/climlab
 [book]: https://brian-rose.github.io/ClimateLaboratoryBook/
 [repo]: https://github.com/brian-rose/ClimateLaboratoryBook
