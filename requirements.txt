@@ -7,4 +7,3 @@ sphinx-jinja
 sphinx-panels
 ablog
 pydata-sphinx-theme
-yaml
