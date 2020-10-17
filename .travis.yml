@@ -8,4 +8,5 @@ env:
 script:
   - set -e
   - make html
+  - cd ..
   - doctr deploy . --built-docs _build/html --deploy-repo brian-rose/brian-rose.github.io
