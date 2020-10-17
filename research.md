@@ -28,7 +28,8 @@ Our day-to-day work rests upon these **three pillars**:
 - **Curiosity**: Science is ultimately about the fun of asking questions and seeking answers.
 Remembering to follow your curiosity is a serious business.
 - **Rigor**: We can't answer questions without striving to answer question well!
-We aim to be careful, thoughtful, and quantitative in all our work.
+We aim to be careful, thoughtful, and quantitative in all our work,
+and communicate our results are clearly as possible.
 - **Openness and reproducibility**: Science is also fundamentally about communication.
 Given the central role of computation in our field, we have a special responsibility to
 guard against the proliferation of non-reproducible results.
@@ -54,14 +55,14 @@ Some specific ongoing research interests and projects include:
 - Multiple equilibria in the coupled climate system
 - The dynamics of past warm climates and glacial-interglacial transitions
 - Oceanography of Snowball Earth
-- Effects of obliquity on exoplanet climate
+- [Effects of obliquity on exoplanet climate](posts/2017/2017-08-04-ice-belt-paper-accepted)
 
 You can find all our group's [publications here on this site](publications).
 You can also find [Brian's full CV on github](https://github.com/brian-rose/CV/blob/master/Rose_CV.pdf)
 
 ## Collaborators
 
-Some of my collaborators and coauthors (past and present):
+Some of Brian's collaborators and coauthors (past and present):
 
 - [Dorian Abbot](http://geosci.uchicago.edu/people/dorian-abbot/) (U. Chicago)
 - [Kyle Armour](https://faculty.washington.edu/karmour/) (UW)
