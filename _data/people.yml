@@ -23,8 +23,17 @@ current:
       bio: Atmospheric energy transport and polar climate
 
     - name: Fangze Zhu
+      pic: FangzeZhu.JPG
       email: fzhu@albany.edu
-      bio: Multiple equilibria of the coupled climate system
+      bio: >
+        I am enthusiastic about climate science in general.
+        My research interests include multiple equilibria in the coupled climate
+        system and causes of glacial-interglacial cycles.
+        Using a hierarchy of climate models and the theories of nonlinear
+        dynamical systems, my goal is to understand how every component of the
+        climate system has worked together to produce the large climatic
+        transitions in the Earth’s history.
+        When I’m not working, I enjoy reading, walking, violin and clouds.
 
 alumni:
   - name: Cameron Rencurrel
