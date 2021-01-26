@@ -3,6 +3,13 @@
 Here's a list of all the courses I've taught since starting at UAlbany in Fall 2013.
 Links to legacy webpages for previous versions of each course are provided below.
 
+## The Atmosphere (AATM 100)
+
+An introduction to the essential processes acting in the Earth’s atmosphere for non-majors.
+AATM 100 is an approved Natural Science course in the [UAlbany General Education Program](https://www.albany.edu/undergraduate_bulletin/general_education.html).
+
+Spring 2021: fully online/asynchronous course on [Blackboard](https://blackboard.albany.edu/)
+
 ## Atmospheric Dynamics (AATM 500)
 
 Core graduate course on the fundamentals of geophysical fluid dynamics and large-scale atmospheric motions.
