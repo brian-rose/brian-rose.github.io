@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Rose Group Home'
-copyright = '2020, Brian E. J. Rose'
+copyright = '2021, Brian E. J. Rose'
 author = 'Brian E. J. Rose'
 
 
