@@ -1,5 +1,4 @@
 sphinx
-doctr
 recommonmark
 sphinx-markdown-tables
 sphinxcontrib-bibtex
