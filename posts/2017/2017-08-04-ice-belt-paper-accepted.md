@@ -4,7 +4,7 @@ tags: news, research, publications
 ---
 # New paper by Rose, Cronin and Bitz on exoplanet ice cover at low and high obliquity
 
-Brian's latest paper (with colleagues [Tim Cronin](http://web.mit.edu/~twcronin/www/index.html) from MIT and [Cecilia Bitz](http://www.atmos.washington.edu/~bitz/) from UW) is called "Ice Caps and Ice Belts: the effects of obliquity on ice-albedo feedback". It has been accepted for publication in the [Astrophysical Journal](http://iopscience.iop.org/journal/0004-637X). The paper looks at the basic rules governing planetary ice extent on Earth-like exoplanets at different obliquities. Click here for [a preprint of the accepted manuscript]({{ site.baseurl }}/resources/Publications/Rose_Cronin_Bitz_ApJ_accepted.pdf).
+Brian's latest paper (with colleagues [Tim Cronin](http://web.mit.edu/~twcronin/www/index.html) from MIT and [Cecilia Bitz](http://www.atmos.washington.edu/~bitz/) from UW) is called "Ice Caps and Ice Belts: the effects of obliquity on ice-albedo feedback". It has been accepted for publication in the [Astrophysical Journal](http://iopscience.iop.org/journal/0004-637X). The paper looks at the basic rules governing planetary ice extent on Earth-like exoplanets at different obliquities. Click here for [a preprint of the accepted manuscript](http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_Cronin_Bitz_ApJ_accepted.pdf).
 
 Obliquity is the angle of a planet's axis of rotation relative to its orbital plane. On Earth that angle is about 23.5º, and among other things, is the reason we have seasons. Something funny happens for planets at obliquity angles exceeding 55º. When you average over a whole year, the total amount of sunlight is largest at the poles and smallest at the equator.
 
