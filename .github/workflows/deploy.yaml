@@ -21,7 +21,7 @@ jobs:
           python -m pip install -r requirements.txt
       - name: Build
         run: |
-          make -j4 html
+          make html
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3.7.3
         with:
