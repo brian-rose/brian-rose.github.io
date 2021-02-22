@@ -21,7 +21,6 @@ jobs:
           python -m pip install -r requirements.txt
       - name: Build
         run: |
-          cd content
           make -j4 html
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.7.3
