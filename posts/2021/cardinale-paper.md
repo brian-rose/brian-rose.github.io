@@ -12,7 +12,7 @@ We are interested in separating the effects of stratospheric and tropospheric ci
 
 We find that the energy transport into the polar caps is strongly **bimodal** with both **stratospheric** and **tropospheric** peaks. The seasonality and interannual variability of the two components are very different, as illustrated below in the "curtain plot". A major finding is that the stratospheric component explains nearly 25% of the variance of the total energy transport.
 
-```{figure} /_static/images/Cardinale_Fig1_cropped.pdf
+```{figure} /_static/images/Cardinale_Fig1_cropped.png
 :alt: The "curtain plot", Figure 1 from Cardinale et al. (2021) J. Climate.
 
 Figure 1 from Cardinale et al. (2021): Vertical cross-sections of moist static energy flux (and flux convergence) into the polar caps. Poleward fluxes are defined as positive in both panels.
@@ -22,7 +22,7 @@ We compare composites of two very different types of Arctic winter "surge" event
 
 In contrast, tropospheric surges are associated with net downward energy flux at the surface, with very little impact on the Top-of-Atmosphere. These results are suggestive of a **two-box reasoning** in which stratospheric variability is "vented" to space while tropospheric variability is tightly coupled to the warming of the surface.
 
-```{figure} /_static/images/Cardinale_Fig8_cropped.pdf
+```{figure} /_static/images/Cardinale_Fig8_cropped.png
 :alt: The two-box schematic, Figure 8 from Cardinale et al. (2021) J. Climate.
 
 Figure 8 from Cardinale et al. (2021): Schematic of the energetic pathways in response to an increase in the stratospheric or tropospheric energy flux convergence in the Arctic polar cap.
