@@ -14,6 +14,7 @@ We find that the energy transport into the polar caps is strongly **bimodal** wi
 
 ```{figure} /_static/images/Cardinale_Fig1_cropped.png
 :alt: The "curtain plot", Figure 1 from Cardinale et al. (2021) J. Climate.
+:align: center
 
 Figure 1 from Cardinale et al. (2021): Vertical cross-sections of moist static energy flux (and flux convergence) into the polar caps. Poleward fluxes are defined as positive in both panels.
 ```
@@ -24,6 +25,8 @@ In contrast, tropospheric surges are associated with net downward energy flux at
 
 ```{figure} /_static/images/Cardinale_Fig8_cropped.png
 :alt: The two-box schematic, Figure 8 from Cardinale et al. (2021) J. Climate.
+:width: 400px
+:align: center
 
 Figure 8 from Cardinale et al. (2021): Schematic of the energetic pathways in response to an increase in the stratospheric or tropospheric energy flux convergence in the Arctic polar cap.
 ```
