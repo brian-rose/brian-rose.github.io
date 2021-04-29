@@ -1,10 +1,6 @@
-name: deploy-site
-
-# Only run this when the main branch changes
+# Run this on PRs... build but don't try to deploy
 on:
-  push:
-    branches:
-      - main
+  pull_request:
 
 jobs:
   deploy-site:
@@ -23,9 +19,3 @@ jobs:
       - name: Build with Sphinx
         run: |
           make -j4 html
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3.7.3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_build/html
-          enable_jekyll: false
