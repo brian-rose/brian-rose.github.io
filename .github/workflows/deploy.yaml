@@ -2,8 +2,7 @@ name: deploy-site
 
 on:
   push:
-    branches:
-      - main
+  pull_request:
 
 jobs:
   deploy-site:
