@@ -1,6 +1,6 @@
 # Publications
 
-Here's a complete list of peer-reviewed papers from Rose group members.
+Here's a complete list of peer-reviewed papers from Rose group members. Papers are great!
 
 ## 2021
 
