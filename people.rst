@@ -41,6 +41,12 @@ People
        :target: https://scholar.google.com/citations?user={{ person.scholar }}
     {% endif %}
 
+    {% if person.researchgate %}
+    .. image:: https://img.shields.io/static/v1?label=&message=ResearchGate&color=gray&style=flat-square&logo=ResearchGate
+       :alt: ResearchGate
+       :target: https://www.researchgate.net/profile/{{ person.researchgate }}
+    {% endif %}
+
     {% if person.github %}
     .. image:: https://img.shields.io/github/followers/{{ person.github }}?label=Github&logo=github&style=flat-square
        :alt: GitHub Profile

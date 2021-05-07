@@ -46,6 +46,17 @@ current:
         transitions in the Earth’s history.
         When I’m not working, I enjoy reading, walking, violin and clouds.
 
+    - name: Yuan-Jen Lin
+      email: yuanjenlin@gmail.com
+      orcid: 0000-0002-0710-9143
+      pic: YuanJenLin.jpg
+      pronouns: she / her
+      researchgate: Yuan-Jen-Lin
+      scholar: umggMLgAAAAJ
+      bio: >
+        I enjoy understanding the processes related to large-scale climate dynamics and climate change. My research interests include (1) uncertainty in climate sensitivity and its relation to the ocean (2) interactions between ocean, clouds, and radiation (3) time-evolving ocean circulation under climate change.
+        My full CV can be found `here <https://github.com/yuanjenlin/CV/raw/master/CV.pdf>`_.
+
 alumni:
   - name: Cameron Rencurrel
     position: Ph.D. Student, 2014-2020
