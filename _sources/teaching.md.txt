@@ -19,7 +19,9 @@ Core graduate course on the fundamentals of geophysical fluid dynamics and large
 [Fall 2017](http://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2017),
 [Fall 2018](http://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2018),
 [Fall 2019](http://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2019),
-Fall 2020 (course has moved to the Blackboard platform, taught in hybrid synchronous simulcast mode)
+Fall 2020 (course temporarily moved to the Blackboard platform, taught in hybrid synchronous simulcast mode),
+[Fall 2021](http://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2021),
+
 
 ## Climate Laboratory (AENV 415 / AATM 415)
 
