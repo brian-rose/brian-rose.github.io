@@ -56,16 +56,25 @@ current:
       bio: >
         I enjoy understanding the processes related to large-scale climate dynamics and climate change. My research interests include (1) uncertainty in climate sensitivity and its relation to the ocean (2) interactions between ocean, clouds, and radiation (3) time-evolving ocean circulation under climate change.
         My full CV can be found `here <https://github.com/yuanjenlin/CV/raw/master/CV.pdf>`_.
-        
+
     - name: Robert Ford
       email: rford2@albany.edu
       github: r-ford
       orcid: 0000-0001-5483-4965
       pronouns: he / him
       bio: >
-        I am generally interested in using physics and computational modeling to 
+        I am generally interested in using physics and computational modeling to
         understand Earth's climate. My nonacademic interests include guitar and reading.
- 
+
+    - name: Li Zhuo
+      email: lzhuo@albany.edu
+      pic: LiZhuo.jpg
+      bio: >
+        I have a strong interest in the processes and feedbacks taking place in
+        the atmosphere and ocean. Currently, I focus on the rapid warming taking
+        place over the desert. My goal is to explore the mechanisms responsible
+        for it and the impacts this warming has on the regional and global climate.
+        In my spare time, I enjoy swimming, travelling and photography.
 
 alumni:
   - name: Cameron Rencurrel
