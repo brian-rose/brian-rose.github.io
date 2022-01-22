@@ -4,7 +4,7 @@ Welcome to the homepage for the Climate Dynamics and Modeling research group
 housed in the [Department of Atmospheric & Environmental Sciences](https://www.albany.edu/daes)
 at the [University at Albany](https://www.albany.edu)!
 
-Here you'll find information and links [about our group](people) and all our activities
+Here you'll find information and links [about our group](people2) and all our activities
 in [research](research), [teaching](teaching), [outreach](miscellany),
 and [open-source software](climlab).
 
