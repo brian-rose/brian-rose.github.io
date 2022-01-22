@@ -99,6 +99,7 @@ panels_add_boostrap_css = False
 myst_admonition_enable = True
 myst_deflist_enable = True
 myst_html_img_enable = True
+myst_enable_extensions = ["substitution",]
 
 def setup(app):
     app.add_css_file("custom.css")
