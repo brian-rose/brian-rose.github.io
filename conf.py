@@ -31,7 +31,7 @@ extensions = ['myst_parser',
               #'myst_nb',
               'sphinx_panels',
               'sphinxcontrib.bibtex',
-              'sphinxcontrib.jinja',
+              'sphinx_jinja',
               'ablog',
               'sphinx.ext.intersphinx',
              ]
