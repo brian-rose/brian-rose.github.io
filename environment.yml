@@ -6,8 +6,9 @@ dependencies:
   - recommonmark
   - sphinx-markdown-tables
   - sphinxcontrib-bibtex
-  - sphinx-jinja
   - sphinx-panels
   - ablog
   - pydata-sphinx-theme
   - myst-parser
+  - pip:
+    - sphinx-jinja # the version available on conda-forge is out-of-date
