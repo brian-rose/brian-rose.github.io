@@ -53,9 +53,11 @@ current:
       pronouns: she / her
       researchgate: Yuan-Jen-Lin
       scholar: umggMLgAAAAJ
+      github: yuanjenlin
+      website: https://yuanjenlin.github.io
       bio: >
         I enjoy understanding the processes related to large-scale climate dynamics and climate change. My research interests include (1) uncertainty in climate sensitivity and its relation to the ocean (2) interactions between ocean, clouds, and radiation (3) time-evolving ocean circulation under climate change.
-        My full CV can be found [here](https://github.com/yuanjenlin/CV/raw/master/CV.pdf).
+        My full CV can be found [here](https://yuanjenlin.github.io/files/CV.pdf).
 
     - name: Robert Ford
       email: rford2@albany.edu
