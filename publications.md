@@ -2,6 +2,12 @@
 
 Here's a complete list of peer-reviewed papers from Rose group members.
 
+## 2022
+
+```{bibliography} rose_group_references.bib
+  :list: bullet
+  :filter: year=="2021"
+```
 ## 2021
 
 ```{bibliography} rose_group_references.bib
