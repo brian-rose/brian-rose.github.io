@@ -65,9 +65,14 @@ current:
       github: r-ford
       orcid: 0000-0001-5483-4965
       pronouns: he / him
+      website: https://r-ford.github.io
       bio: >
-        I am generally interested in using physics and computational modeling to
-        understand Earth's climate. My nonacademic interests include guitar and reading.
+        I am generally interested in climate change, dynamics, and modeling.
+        My current research involves using climate models to investigate the
+        pattern effect, which refers to the coupling of patterns of
+        ocean heat uptake (and sea surface temperature), radiative feedbacks,
+        and climate sensitivity. Besides science, I enjoy playing guitar, bass,
+        and video games, as well as reading fantasy and philosophy.
 
     - name: Li Zhuo
       email: lzhuo@albany.edu
