@@ -3,6 +3,10 @@
 Here's a list of all the courses I've taught since starting at UAlbany in Fall 2013.
 Links to legacy webpages for previous versions of each course are provided below.
 
+## General Circulation of the Atmosphere (AATM 622)
+
+[Fall 2022](https://brian-rose.github.io/general-circulation/home.html)
+
 ## Atmospheric Dynamics (AATM 500)
 
 Core graduate course on the fundamentals of geophysical fluid dynamics and large-scale atmospheric motions.
