@@ -5,6 +5,8 @@ Links to legacy webpages for previous versions of each course are provided below
 
 ## General Circulation of the Atmosphere (AATM 622)
 
+A hands-on, data-centric approach (work in progress).
+
 [Fall 2022](https://brian-rose.github.io/general-circulation/home.html)
 
 ## Atmospheric Dynamics (AATM 500)
