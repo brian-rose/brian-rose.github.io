@@ -3,11 +3,11 @@
 <!DOCTYPE html>
 
 
-<html lang="en" >
+<html >
 
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
     <title>Miscellany &#8212; Rose Group Home  documentation</title>
   
@@ -31,21 +31,23 @@
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="_static/custom.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-dropdown.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
   <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
 <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
     <script src="_static/doctools.js"></script>
-    <script src="_static/sphinx_highlight.js"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'miscellany';</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="prev" title="News" href="blog.html" /> 
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <meta name="docsearch:language" content="en"/>  
+  <meta name="docsearch:language" content="None"/>  
 <style type="text/css">
   ul.ablog-archive {
     list-style: none;
@@ -506,15 +508,15 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                    <section id="miscellany">
-<h1>Miscellany<a class="headerlink" href="#miscellany" title="Permalink to this heading">#</a></h1>
+<h1>Miscellany<a class="headerlink" href="#miscellany" title="Permalink to this headline">#</a></h1>
 <p>If you use my codes or find anything here useful in your own work, I would appreciate hearing about it by email.</p>
 <section id="public-presentation-climate-sensitivity-in-an-uncertain-world-science-on-tap-october-2018">
-<h2>Public presentation: “Climate Sensitivity in an Uncertain World” (Science on Tap, October 2018)<a class="headerlink" href="#public-presentation-climate-sensitivity-in-an-uncertain-world-science-on-tap-october-2018" title="Permalink to this heading">#</a></h2>
+<h2>Public presentation: “Climate Sensitivity in an Uncertain World” (Science on Tap, October 2018)<a class="headerlink" href="#public-presentation-climate-sensitivity-in-an-uncertain-world-science-on-tap-october-2018" title="Permalink to this headline">#</a></h2>
 <p>I gave this presentation at Slidin’ Dirty in Schenectady NY as a special <a class="reference external" href="https://www.capsciny.org/project/science-on-tap/">Science on Tap</a> event coinciding with the <a class="reference external" href="https://www.misci.org/events/science-festival">MiSci Science Festival</a>. My talk was about the concept of climate sensitivity, and some of the difficulties around using historical observations to infer future sensitivity.</p>
 <p>The slides are available here <a class="reference external" href="http://www.atmos.albany.edu/facstaff/brose/resources/SensitivityUncertain.pdf">in pdf format (.pdf)</a> or <a class="reference external" href="http://www.atmos.albany.edu/facstaff/brose/resources/SensitivityUncertain.key">in Apple Keynote format (.key)</a>.</p>
 </section>
 <section id="ams-tools-of-the-trade-presentation-reproducible-workflows-with-jupyter-notebooks">
-<h2>AMS Tools of the Trade presentation: Reproducible workflows with Jupyter notebooks<a class="headerlink" href="#ams-tools-of-the-trade-presentation-reproducible-workflows-with-jupyter-notebooks" title="Permalink to this heading">#</a></h2>
+<h2>AMS Tools of the Trade presentation: Reproducible workflows with Jupyter notebooks<a class="headerlink" href="#ams-tools-of-the-trade-presentation-reproducible-workflows-with-jupyter-notebooks" title="Permalink to this headline">#</a></h2>
 <p>In January 2018 I gave an invited presentation at the Tools of the Trade session of the AMS Student Conference, where I discussed the use of the Jupyter notebook and other Python-based tools for open and reproducible workflows in atmospheric sciences. All the material is available online:</p>
 <ul class="simple">
 <li><p>Video of the presentation is <a class="reference external" href="https://ams.confex.com/ams/98Annual/videogateway.cgi/id/42749?recordingid=42749">available from AMS</a></p></li>
@@ -523,24 +525,23 @@ document.write(`
 </ul>
 </section>
 <section id="matlab-code-for-an-equilibrium-energy-balance-model">
-<h2>Matlab code for an equilibrium Energy Balance Model<a class="headerlink" href="#matlab-code-for-an-equilibrium-energy-balance-model" title="Permalink to this heading">#</a></h2>
+<h2>Matlab code for an equilibrium Energy Balance Model<a class="headerlink" href="#matlab-code-for-an-equilibrium-energy-balance-model" title="Permalink to this headline">#</a></h2>
 <p>The 1D diffusion equation model described in <span id="id1">[<a class="reference internal" href="#id20" title="Brian E. J. Rose, Kyle C. Armour, David S. Battisti, Nicole Feldl, and Daniel D. B. Koll. The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake. Geophys. Res. Lett., 2014. doi:10.1002/2013GL058955.">RAB+14</a>]</span>, with spatially varying radiative feedback and diffusion of moist static energy. Included data files give fits to the CAM4 aquaplanet GCM simulations. Code is included to reproduce Fig. 4 from <span id="id2">[<a class="reference internal" href="#id20" title="Brian E. J. Rose, Kyle C. Armour, David S. Battisti, Nicole Feldl, and Daniel D. B. Koll. The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake. Geophys. Res. Lett., 2014. doi:10.1002/2013GL058955.">RAB+14</a>]</span>.
 The code uses <a class="reference external" href="http://www.mathworks.com/help/matlab/ref/bvp4c.html">bvp4c.m</a> to solve the energy balance boundary value problem.</p>
 <p><a class="reference external" href="http://www.atmos.albany.edu/facstaff/brose/resources/Code/MoistEBM.zip">MoistEBM.zip</a></p>
 </section>
 <section id="history-of-climate-science">
-<h2>History of climate science<a class="headerlink" href="#history-of-climate-science" title="Permalink to this heading">#</a></h2>
+<h2>History of climate science<a class="headerlink" href="#history-of-climate-science" title="Permalink to this headline">#</a></h2>
 <p>Here are slides for a presentation on the history of climate science that I first gave at MIT in January 2008:
 <a class="reference external" href="http://www.atmos.albany.edu/facstaff/brose/resources/LookingBackOnClimate.pdf">Looking Back on the Future of Climate Change</a></p>
 <p>A better and deeper discussion of the history of the CO2-climate connection was given by <a class="reference external" href="https://youtu.be/RICBu_P8JWI">Ray Pierrehumbert in his 2012 Tyndall Lecture at AGU</a></p>
 <p>And here is an interesting essay on <a class="reference external" href="http://www.realclimate.org/index.php/archives/2010/01/plass-and-the-surface-budget-fallacy/">Gilbert Plass CO2 calculations and the surface budget fallacy</a> (also by Ray Pierrehumbert).</p>
 <div class="docutils container" id="id3">
-<div class="citation" id="id20" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span>RAB+14<span class="fn-bracket">]</span></span>
-<span class="backrefs">(<a role="doc-backlink" href="#id1">1</a>,<a role="doc-backlink" href="#id2">2</a>)</span>
-<p>Brian E. J. Rose, Kyle C. Armour, David S. Battisti, Nicole Feldl, and Daniel D. B. Koll. The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake. <em>Geophys. Res. Lett.</em>, 2014. <a class="reference external" href="https://doi.org/10.1002/2013GL058955">doi:10.1002/2013GL058955</a>.</p>
-</div>
-</div>
+<dl class="citation">
+<dt class="label" id="id20"><span class="brackets">RAB+14</span><span class="fn-backref">(<a href="#id1">1</a>,<a href="#id2">2</a>)</span></dt>
+<dd><p>Brian E. J. Rose, Kyle C. Armour, David S. Battisti, Nicole Feldl, and Daniel D. B. Koll. The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake. <em>Geophys. Res. Lett.</em>, 2014. <a class="reference external" href="https://doi.org/10.1002/2013GL058955">doi:10.1002/2013GL058955</a>.</p>
+</dd>
+</dl>
 </div>
 </section>
 </section>
@@ -633,7 +634,7 @@ The code uses <a class="reference external" href="http://www.mathworks.com/help/
       
         <div class="footer-item">
   <p class="sphinx-version">
-    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 6.1.3.
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 4.5.0.
     <br/>
   </p>
 </div>
