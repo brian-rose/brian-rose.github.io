@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 
-<html >
+<html lang="en" data-content_root="" >
 
   <head>
     <meta charset="utf-8" />
@@ -19,28 +19,29 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
 
   
-  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=5b4479735964841361fd" rel="stylesheet" />
   <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="_static/custom.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-dropdown.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=5b4479735964841361fd" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd" />
+  <script src="_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=5b4479735964841361fd"></script>
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
     <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
     <script src="_static/doctools.js"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'publications';</script>
     <link rel="index" title="Index" href="genindex.html" />
@@ -48,7 +49,7 @@
     <link rel="next" title="climlab" href="climlab.html" />
     <link rel="prev" title="Teaching" href="teaching.html" /> 
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <meta name="docsearch:language" content="None"/>  
+  <meta name="docsearch:language" content="en"/>  
 <style type="text/css">
   ul.ablog-archive {
     list-style: none;
@@ -82,6 +83,15 @@
   
   
   <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
   
   <input type="checkbox"
           class="sidebar-toggle"
@@ -122,12 +132,15 @@
     <span class="fa-solid fa-bars"></span>
   </label>
   
-  <div class="navbar-header-items__start">
+  
+  <div class="col-lg-3 navbar-header-items__start">
     
       <div class="navbar-item">
+
   
 
 <a class="navbar-brand logo" href="index.html">
+  
   
   
   
@@ -139,12 +152,12 @@
     
   </div>
   
-  
   <div class="col-lg-9 navbar-header-items">
     
     <div class="me-auto navbar-header-items__center">
       
-        <div class="navbar-item"><nav class="navbar-nav">
+        <div class="navbar-item">
+<nav class="navbar-nav">
   <p class="sidebar-header-items__title"
      role="heading"
      aria-level="1"
@@ -187,34 +200,34 @@
                       </a>
                     </li>
                 
-            <div class="nav-item dropdown">
-                <button class="btn dropdown-toggle nav-item" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <li class="nav-item dropdown">
+                <button class="btn dropdown-toggle nav-item" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-controls="pst-nav-more-links">
                     More
                 </button>
-                <div class="dropdown-menu">
+                <ul id="pst-nav-more-links" class="dropdown-menu">
                     
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="climategroup.html">
+                      <a class="nav-link dropdown-item nav-internal" href="climategroup.html">
                         Climate Seminar
                       </a>
                     </li>
                 
 
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="blog.html">
+                      <a class="nav-link dropdown-item nav-internal" href="blog.html">
                         News
                       </a>
                     </li>
                 
 
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="miscellany.html">
+                      <a class="nav-link dropdown-item nav-internal" href="miscellany.html">
                         Miscellany
                       </a>
                     </li>
                 
-                </div>
-            </div>
+                </ul>
+            </li>
             
   </ul>
 </nav></div>
@@ -226,23 +239,27 @@
       
         <div class="navbar-item navbar-persistent--container">
           
-<script>
-document.write(`
-  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass"></i>
-  </button>
-`);
-</script>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script>
         </div>
       
       
         <div class="navbar-item">
+
 <script>
 document.write(`
-  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
   </button>
 `);
 </script></div>
@@ -258,8 +275,8 @@ document.write(`
           
           
           
-          <a href="https://github.com/brian-rose/" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-square-github"></i></span>
-            <label class="sr-only">GitHub</label></a>
+          <a href="https://github.com/brian-rose/" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-square-github fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">GitHub</span></a>
         </li>
         <li class="nav-item">
           
@@ -270,8 +287,8 @@ document.write(`
           
           
           
-          <a href="https://twitter.com/BrianEJRose" title="Twitter" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-square-twitter"></i></span>
-            <label class="sr-only">Twitter</label></a>
+          <a href="https://twitter.com/BrianEJRose" title="Twitter" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-square-twitter fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">Twitter</span></a>
         </li>
 </ul></div>
       
@@ -281,18 +298,21 @@ document.write(`
   
   
     <div class="navbar-persistent--mobile">
-<script>
-document.write(`
-  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass"></i>
-  </button>
-`);
-</script>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script>
     </div>
   
 
   
-    <label class="sidebar-toggle secondary-toggle" for="__secondary">
+    <label class="sidebar-toggle secondary-toggle" for="__secondary" tabindex="0">
       <span class="fa-solid fa-outdent"></span>
     </label>
   
@@ -312,7 +332,8 @@ document.write(`
     
       <div class="sidebar-header-items__center">
         
-          <div class="navbar-item"><nav class="navbar-nav">
+          <div class="navbar-item">
+<nav class="navbar-nav">
   <p class="sidebar-header-items__title"
      role="heading"
      aria-level="1"
@@ -355,34 +376,34 @@ document.write(`
                       </a>
                     </li>
                 
-            <div class="nav-item dropdown">
-                <button class="btn dropdown-toggle nav-item" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <li class="nav-item dropdown">
+                <button class="btn dropdown-toggle nav-item" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-controls="pst-nav-more-links-2">
                     More
                 </button>
-                <div class="dropdown-menu">
+                <ul id="pst-nav-more-links-2" class="dropdown-menu">
                     
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="climategroup.html">
+                      <a class="nav-link dropdown-item nav-internal" href="climategroup.html">
                         Climate Seminar
                       </a>
                     </li>
                 
 
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="blog.html">
+                      <a class="nav-link dropdown-item nav-internal" href="blog.html">
                         News
                       </a>
                     </li>
                 
 
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="miscellany.html">
+                      <a class="nav-link dropdown-item nav-internal" href="miscellany.html">
                         Miscellany
                       </a>
                     </li>
                 
-                </div>
-            </div>
+                </ul>
+            </li>
             
   </ul>
 </nav></div>
@@ -394,12 +415,13 @@ document.write(`
       <div class="sidebar-header-items__end">
         
           <div class="navbar-item">
+
 <script>
 document.write(`
-  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
   </button>
 `);
 </script></div>
@@ -415,8 +437,8 @@ document.write(`
           
           
           
-          <a href="https://github.com/brian-rose/" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-square-github"></i></span>
-            <label class="sr-only">GitHub</label></a>
+          <a href="https://github.com/brian-rose/" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-square-github fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">GitHub</span></a>
         </li>
         <li class="nav-item">
           
@@ -427,8 +449,8 @@ document.write(`
           
           
           
-          <a href="https://twitter.com/BrianEJRose" title="Twitter" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-square-twitter"></i></span>
-            <label class="sr-only">Twitter</label></a>
+          <a href="https://twitter.com/BrianEJRose" title="Twitter" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-square-twitter fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">Twitter</span></a>
         </li>
 </ul></div>
         
@@ -484,8 +506,8 @@ document.write(`
 
 
 
-<nav aria-label="Breadcrumbs">
-  <ul class="bd-breadcrumbs" role="navigation" aria-label="Breadcrumb">
+<nav aria-label="Breadcrumb">
+  <ul class="bd-breadcrumbs">
     
     <li class="breadcrumb-item breadcrumb-home">
       <a href="index.html" class="nav-link" aria-label="Home">
@@ -509,10 +531,10 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                    <section id="publications">
-<h1>Publications<a class="headerlink" href="#publications" title="Permalink to this headline">#</a></h1>
+<h1>Publications<a class="headerlink" href="#publications" title="Permalink to this heading">#</a></h1>
 <p>Here’s a complete list of peer-reviewed papers from Rose group members.</p>
 <section id="id1">
-<h2>2023<a class="headerlink" href="#id1" title="Permalink to this headline">#</a></h2>
+<h2>2023<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h2>
 <div class="docutils container" id="id2">
 <ul class="simple">
 <li id="id5"><p>Christopher J. Cardinale and Brian E. J. Rose. The increasing efficiency of the poleward energy transport into the arctic in a warming climate. <em>Geophys. Res. Lett.</em>, 2023. <a class="reference external" href="https://doi.org/10.1029/2022GL100834">doi:10.1029/2022GL100834</a>.</p></li>
@@ -523,7 +545,7 @@ document.write(`
 </div>
 </section>
 <section id="id30">
-<h2>2022<a class="headerlink" href="#id30" title="Permalink to this headline">#</a></h2>
+<h2>2022<a class="headerlink" href="#id30" title="Permalink to this heading">#</a></h2>
 <div class="docutils container" id="id31">
 <ul class="simple">
 <li id="id36"><p>Christopher J. Cardinale and Brian E. J. Rose. The arctic surface heating efficiency of tropospheric energy flux events. <em>J. Climate</em>, 2022. <a class="reference external" href="https://doi.org/10.1175/JCLI-D-21-0852.1">doi:10.1175/JCLI-D-21-0852.1</a>.</p></li>
@@ -531,7 +553,7 @@ document.write(`
 </div>
 </section>
 <section id="id59">
-<h2>2021<a class="headerlink" href="#id59" title="Permalink to this headline">#</a></h2>
+<h2>2021<a class="headerlink" href="#id59" title="Permalink to this heading">#</a></h2>
 <div class="docutils container" id="id60">
 <ul class="simple">
 <li id="id68"><p>Christopher J. Cardinale, Brian E. J. Rose, Andrea L. Lang, and Aaron Donohoe. Stratospheric and tropospheric flux contributions to the polar cap energy budgets. <em>J. Climate</em>, 34:4261–4278, 2021. <a class="reference external" href="https://doi.org/10.1175/JCLI-D-20-0722.1">doi:10.1175/JCLI-D-20-0722.1</a>.</p></li>
@@ -542,7 +564,7 @@ document.write(`
 </div>
 </section>
 <section id="id88">
-<h2>2020<a class="headerlink" href="#id88" title="Permalink to this headline">#</a></h2>
+<h2>2020<a class="headerlink" href="#id88" title="Permalink to this heading">#</a></h2>
 <div class="docutils container" id="id89">
 <ul class="simple">
 <li id="id116"><p>Aiguo Dai, Danqing Huang, Brian E. J. Rose, Jian Zhu, and Xiangjun Tian. Improved methods for estimating equilibrium climate sensitivity from transient warming simulations. <em>Climate Dynamics</em>, 54(11):4515–4543, 2020. <a class="reference external" href="https://doi.org/10.1007/s00382-020-05242-1">doi:10.1007/s00382-020-05242-1</a>.</p></li>
@@ -551,10 +573,10 @@ document.write(`
 </div>
 </section>
 <section id="id117">
-<h2>2019<a class="headerlink" href="#id117" title="Permalink to this headline">#</a></h2>
+<h2>2019<a class="headerlink" href="#id117" title="Permalink to this heading">#</a></h2>
 <span class="target" id="id118"></span></section>
 <section id="id146">
-<h2>2018<a class="headerlink" href="#id146" title="Permalink to this headline">#</a></h2>
+<h2>2018<a class="headerlink" href="#id146" title="Permalink to this heading">#</a></h2>
 <div class="docutils container" id="id147">
 <ul class="simple">
 <li id="id170"><p>M. Cameron Rencurrel and Brian E. J. Rose. Exploring the climatic response to wide variations in ocean heat transport on an aquaplanet. <em>J. Climate</em>, 31:6299–6318, 2018. <a class="reference external" href="https://doi.org/10.1175/JCLI-D-17-0856.1">doi:10.1175/JCLI-D-17-0856.1</a>.</p></li>
@@ -563,7 +585,7 @@ document.write(`
 </div>
 </section>
 <section id="id175">
-<h2>2017<a class="headerlink" href="#id175" title="Permalink to this headline">#</a></h2>
+<h2>2017<a class="headerlink" href="#id175" title="Permalink to this heading">#</a></h2>
 <div class="docutils container" id="id176">
 <ul class="simple">
 <li id="id201"><p>Alexander D. Haugstad, Kyle C. Armour, David S. Battisti, and Brian E.J. Rose. Relative roles of surface temperature and climate forcing patterns in the inconstancy of radiative feedbacks. <em>Geophys. Res. Lett.</em>, 2017. <a class="reference external" href="https://doi.org/10.1002/2017GL074372">doi:10.1002/2017GL074372</a>.</p></li>
@@ -574,7 +596,7 @@ document.write(`
 </div>
 </section>
 <section id="id204">
-<h2>2016<a class="headerlink" href="#id204" title="Permalink to this headline">#</a></h2>
+<h2>2016<a class="headerlink" href="#id204" title="Permalink to this heading">#</a></h2>
 <div class="docutils container" id="id205">
 <ul class="simple">
 <li id="id219"><p>Brian E. J. Rose and Lance Rayborn. The effects of ocean heat uptake on transient climate sensitivity. <em>Curr. Clim. Change Rep.</em>, 2:190–201, 2016. <a class="reference external" href="https://doi.org/10.1007/s40641-016-0048-4">doi:10.1007/s40641-016-0048-4</a>.</p></li>
@@ -584,7 +606,7 @@ document.write(`
 </div>
 </section>
 <section id="id233">
-<h2>2015<a class="headerlink" href="#id233" title="Permalink to this headline">#</a></h2>
+<h2>2015<a class="headerlink" href="#id233" title="Permalink to this heading">#</a></h2>
 <div class="docutils container" id="id234">
 <ul class="simple">
 <li id="id246"><p>Brian E. J. Rose. Stable “waterbelt&quot; climates controlled by tropical ocean heat transport: a nonlinear coupled climate mechanism of relevance to Snowball Earth. <em>J. Geophys. Res.</em>, 120:1404–1423, 2015. <a class="reference external" href="https://doi.org/10.1002/2014JD022659">doi:10.1002/2014JD022659</a>.</p></li>
@@ -592,7 +614,7 @@ document.write(`
 </div>
 </section>
 <section id="id262">
-<h2>2014<a class="headerlink" href="#id262" title="Permalink to this headline">#</a></h2>
+<h2>2014<a class="headerlink" href="#id262" title="Permalink to this heading">#</a></h2>
 <div class="docutils container" id="id263">
 <ul class="simple">
 <li id="id280"><p>Brian E. J. Rose, Kyle C. Armour, David S. Battisti, Nicole Feldl, and Daniel D. B. Koll. The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake. <em>Geophys. Res. Lett.</em>, 2014. <a class="reference external" href="https://doi.org/10.1002/2013GL058955">doi:10.1002/2013GL058955</a>.</p></li>
@@ -600,7 +622,7 @@ document.write(`
 </div>
 </section>
 <section id="id291">
-<h2>2013<a class="headerlink" href="#id291" title="Permalink to this headline">#</a></h2>
+<h2>2013<a class="headerlink" href="#id291" title="Permalink to this heading">#</a></h2>
 <div class="docutils container" id="id292">
 <ul class="simple">
 <li id="id311"><p>Brian E. J. Rose and David Ferreira. Ocean heat transport and water vapor greenhouse in a warm equable climate: a new look at the low gradient paradox. <em>J. Climate</em>, 26:2117–2136, 2013. <a class="reference external" href="https://doi.org/10.1175/JCLI-D-11-00547.1">doi:10.1175/JCLI-D-11-00547.1</a>.</p></li>
@@ -609,7 +631,7 @@ document.write(`
 </div>
 </section>
 <section id="pre-2013">
-<h2>pre-2013<a class="headerlink" href="#pre-2013" title="Permalink to this headline">#</a></h2>
+<h2>pre-2013<a class="headerlink" href="#pre-2013" title="Permalink to this heading">#</a></h2>
 <div class="docutils container" id="id320">
 <ul class="simple">
 <li id="id346"><p>David Ferreira, John Marshall, and Brian E. J. Rose. Climate determinism revisited: multiple equilibria in a complex climate model. <em>J. Climate</em>, 24:992–1012, 2011. <a class="reference external" href="https://doi.org/10.1175/2010JCLI3580.1">doi:10.1175/2010JCLI3580.1</a>.</p></li>
@@ -628,11 +650,10 @@ document.write(`
               
               
               
-                <footer class="bd-footer-article">
+              
+              
+                <footer class="prev-next-footer">
                   
-<div class="footer-article-items footer-article__inner">
-  
-    <div class="footer-article-item"><!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
        href="teaching.html"
@@ -652,10 +673,7 @@ document.write(`
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
-</div></div>
-  
 </div>
-
                 </footer>
               
             </div>
@@ -665,6 +683,7 @@ document.write(`
                 <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
   <div class="sidebar-secondary-item">
+
   <div class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> On this page
   </div>
@@ -686,6 +705,7 @@ document.write(`
   </nav></div>
 
   <div class="sidebar-secondary-item">
+
   <div class="tocsection sourcelink">
     <a href="_sources/publications.md.txt">
       <i class="fa-solid fa-file-lines"></i> Show Source
@@ -706,8 +726,8 @@ document.write(`
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+  <script src="_static/scripts/bootstrap.js?digest=5b4479735964841361fd"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd"></script>
 
   <footer class="bd-footer">
 <div class="bd-footer__inner bd-page-width">
@@ -715,6 +735,7 @@ document.write(`
     <div class="footer-items__start">
       
         <div class="footer-item">
+
   <p class="copyright">
     
       © Copyright 2021, Brian E. J. Rose.
@@ -724,8 +745,9 @@ document.write(`
 </div>
       
         <div class="footer-item">
+
   <p class="sphinx-version">
-    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 4.5.0.
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.0.2.
     <br/>
   </p>
 </div>
@@ -733,10 +755,12 @@ document.write(`
     </div>
   
   
+  
     <div class="footer-items__end">
       
-        <div class="footer-item"><p class="theme-version">
-  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.13.3.
+        <div class="footer-item">
+<p class="theme-version">
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.14.4.
 </p></div>
       
     </div>
