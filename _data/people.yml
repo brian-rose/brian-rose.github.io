@@ -19,46 +19,6 @@ current:
       linkedin: brian-rose-37bb55106
 
   Graduate_Students:
-    - name: Christopher Cardinale
-      email: ccardinale@albany.edu
-      bio: >
-        My research interests include the variability and vertical structure
-        of the atmospheric energy transport and its role in polar warming on
-        synoptic and climate timescales, and tropospheric-stratospheric coupling.
-        Outside of work, I enjoy music, disc golf, second breakfast,
-        and identifying trees while hiking.
-      orcid: 0000-0002-6880-5812
-      github: cjcardinale
-      pic: ChrisCardinale.jpg
-
-    - name: Fangze Zhu
-      pic: FangzeZhu.JPG
-      email: fzhu@albany.edu
-      twitter: FangzeZhu
-      pronouns: she / her
-      bio: >
-        I am enthusiastic about climate science in general.
-        My research interests include multiple equilibria in the coupled climate
-        system and causes of glacial-interglacial cycles.
-        Using a hierarchy of climate models and the theories of nonlinear
-        dynamical systems, my goal is to understand how every component of the
-        climate system has worked together to produce the large climatic
-        transitions in the Earth’s history.
-        When I’m not working, I enjoy reading, walking, violin and clouds.
-
-    - name: Yuan-Jen Lin
-      email: yuanjenlin@gmail.com
-      orcid: 0000-0002-0710-9143
-      pic: YuanJenLin.jpg
-      pronouns: she / her
-      researchgate: Yuan-Jen-Lin
-      scholar: umggMLgAAAAJ
-      github: yuanjenlin
-      website: https://yuanjenlin.github.io
-      bio: >
-        I enjoy understanding the processes related to large-scale climate dynamics and climate change. My research interests include (1) uncertainty in climate sensitivity and its relation to the ocean (2) interactions between ocean, clouds, and radiation (3) time-evolving ocean circulation under climate change.
-        My full CV can be found [here](https://yuanjenlin.github.io/files/CV.pdf).
-
     - name: Robert Ford
       email: rford2@albany.edu
       pic: RobertFord.jpg
@@ -102,26 +62,76 @@ current:
         and watching sports. 
 
 alumni:
+  - name: Yuan-Jen Lin
+    email: yuanjenlin@gmail.com
+    orcid: 0000-0002-0710-9143
+    pic: YuanJenLin.jpg
+    pronouns: she / her
+    researchgate: Yuan-Jen-Lin
+    scholar: umggMLgAAAAJ
+    github: yuanjenlin
+    website: https://yuanjenlin.github.io
+    position: Visiting Ph.D. student, 2021-2022
+    current_position: Postdoc at Center for Climate Systems Research, Columbia University / NASA GISS
+    orcid: 0000-0002-0710-9143
+
+  - name: Fangze Zhu
+    pic: FangzeZhu.JPG
+    email: fzhu@albany.edu
+    twitter: FangzeZhu
+    pronouns: she / her
+    linkedin: https://www.linkedin.com/in/fangze-zhu-390148282/
+    scholar: 0kuH7jkAAAAJ
+    position: Ph.D. student, 2018-2024
+    github: fangze-zhu
+
+  - name: Christopher Cardinale
+    email: ccardinale@albany.edu
+    orcid: 0000-0002-6880-5812
+    github: cjcardinale
+    pic: ChrisCardinale.jpg
+    position: Ph.D. Student, 2016-2022
+    current_position: Faculty Assistant at U. Maryland College Park
+    linkedin: christopher-j-cardinale
+    scholar: hOPdTO8AAAAJ
+
   - name: Cameron Rencurrel
     position: Ph.D. Student, 2014-2020
-    current_position: Postdoc, Texas A&M
-    website: https://ocean.tamu.edu/people/profiles/research-staff/rencurrelmichael.html
+    other_positions:
+      - Postdoc, Texas A&M
+    current_position: Climate Risk Analyst at PwC
+    linkedin: m-cameron-rencurrel
+    scholar: B_f0M2cAAAAJ
+    github: mcrencurrel
+    pic: CameronRencurrel.jpg
+
 
   - name: Lance Rayborn
     position: MS student, 2015-2016
-    current_position: Research Associate at Pacific Northwest National Laboratory
-    linkedin: https://www.linkedin.com/in/lance-rayborn/
+    other_positions:
+      - Research Associate at Pacific Northwest National Laboratory
+    current_position: Self-employed
+    linkedin: lance-rayborn
+    pic: LanceRayborn.jpg
 
   - name: Duan-Heng Chang
     position: Visiting research intern, summer 2019
-    current_position: Undergradute student at National Taiwan University
-    website: https://www.linkedin.com/in/duan-heng-chang-39aa00125/
+    current_position: unknown
+    linkedin: duan-heng-chang-39aa00125
 
   - name: Chyi-Rong Tsai
     position: Visiting research intern, summer 2015
-    current_position: Research Assistant, Institute of Sociology, Academia Sinica, Taiwan
-    website: https://twitter.com/chyirong
+    other_positions:
+      - Research Assistant, Institute of Sociology, Academia Sinica, Taiwan
+    current_position: Graduate student at UT Austin Sociology
+    website: https://liberalarts.utexas.edu/sociology/gradstudents/ct29487
+    twitter: chyirong
 
   - name: Deborah McGlynn
     position: Undergradute thesis, Fall 2014
-    current_position: MS student at SUNY ESF
+    other_positions:
+      - MS student at SUNY ESF
+    current_position: Graduate student at Virginia Tech, Civil & Environmental Engineering
+    scholar: iFoa6JcAAAAJ
+    orcid: 0000-0001-8254-4367
+
