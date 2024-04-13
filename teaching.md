@@ -32,9 +32,12 @@ Fall 2020 *(course temporarily moved to the Blackboard platform, taught in hybri
 ## Climate Laboratory (AENV 415 / AATM 415)
 
 A hands-on course in climate modeling. Learn about climate science by building and using models.
-Open to students in the ATM and ENV programs (typically in junior or senior year).
-The latest version of this course uses my interactive textbook
-[The Climate Laboratory](https://brian-rose.github.io/ClimateLaboratoryBook/)
+Open to students in the ATM and ENV programs (typically in junior or senior year). Offered every second Spring semester.
+
+Since 2020, this course uses my interactive textbook
+[The Climate Laboratory](https://brian-rose.github.io/ClimateLaboratoryBook/). All course content is available through this book.
+
+As of 2024, I'm using an access-controlled Brightspace page to manage class schedules, assignments, and announcements.
 
 [Spring 2022](http://www.atmos.albany.edu/facstaff/brose/classes/ENV415_Spring2022/),
 [Spring 2020](http://www.atmos.albany.edu/facstaff/brose/classes/ENV415_Spring2020/),
