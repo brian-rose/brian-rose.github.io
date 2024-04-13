@@ -61,6 +61,20 @@ current:
         using satellite remote sensing. In my spare time, I like playing tennis, hiking,
         and watching sports. 
 
+  Undergraduate_Students:
+    - name: Alex Kramer
+      email: adkramer@albany.edu
+      pic: AlexKramer.jpg
+      pronouns: he / him
+      bio: >
+        I have an interest in severe storms meteorology, in particular the 
+        processes that cause the genesis and strengthening of tornadoes. 
+        My current research involves the analysis of the Turin, NY tornado 
+        of 2023, specifically the roll of terrain and storm interactions 
+        in the progression of the tornado. Outside of science, 
+        I enjoy skiing, working out, and volunteering with my 
+        local fire department.
+
 alumni:
   - name: Yuan-Jen Lin
     email: yuanjenlin@gmail.com
