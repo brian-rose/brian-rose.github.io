@@ -35,7 +35,7 @@ A hands-on course in climate modeling. Learn about climate science by building a
 Open to students in the ATM and ENV programs (typically in junior or senior year). Offered every second Spring semester.
 
 Since 2020, this course uses my interactive textbook
-[The Climate Laboratory](https://brian-rose.github.io/ClimateLaboratoryBook/). All course content is available through this book.
+[The Climate Laboratory](https://brian-rose.github.io/ClimateLaboratoryBook/). All course content is freely available and permissively licensed through this book ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 
 As of 2024, I'm using an access-controlled Brightspace page to manage class schedules, assignments, and announcements.
 
