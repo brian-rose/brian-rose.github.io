@@ -86,7 +86,9 @@ alumni:
     github: yuanjenlin
     website: https://yuanjenlin.github.io
     position: Visiting Ph.D. student, 2021-2022
-    current_position: Postdoc at Center for Climate Systems Research, Columbia University / NASA GISS
+    current_position: Postdoc at the University of Colorado Boulder
+    other_positions:
+      - Postdoc at Center for Climate Systems Research, Columbia University / NASA GISS
     orcid: 0000-0002-0710-9143
 
   - name: Fangze Zhu
