@@ -8,7 +8,7 @@ Links to legacy webpages for previous versions of each course are provided below
 Core undergraduate course in the ATM major. 
 The goal of this course is to understand the physical laws that govern how energy and heat are transmitted in the atmosphere.
 
-[Fall 2023](https://brian-rose.github.io/atm320-thermodynamics/)
+[Fall 2024](https://brian-rose.github.io/atm320-thermodynamics/), [Fall 2023](https://www.atmos.albany.edu/facstaff/brose/classes/atm320-thermodynamics/2023/)
 
 ## General Circulation of the Atmosphere (AATM 622)
 
@@ -22,11 +22,11 @@ Core graduate course on the fundamentals of geophysical fluid dynamics and large
 
 [Fall 2021](http://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2021),
 Fall 2020 *(course temporarily moved to the Blackboard platform, taught in hybrid synchronous simulcast mode)*,
-[Fall 2019](http://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2019),
-[Fall 2018](http://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2018),
-[Fall 2017](http://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2017),
-[Fall 2016](http://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2016),
-[Fall 2015](http://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2015)
+[Fall 2019](https://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2019),
+[Fall 2018](https://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2018),
+[Fall 2017](https://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2017),
+[Fall 2016](https://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2016),
+[Fall 2015](https://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2015)
 
 
 ## Climate Laboratory (AENV 415 / AATM 415)
@@ -39,11 +39,11 @@ Since 2020, this course uses my interactive textbook
 
 As of 2024, I'm using an access-controlled Brightspace page to manage class schedules, assignments, and announcements.
 
-[Spring 2022](http://www.atmos.albany.edu/facstaff/brose/classes/ENV415_Spring2022/),
-[Spring 2020](http://www.atmos.albany.edu/facstaff/brose/classes/ENV415_Spring2020/),
-[Spring 2018](http://www.atmos.albany.edu/facstaff/brose/classes/ENV415_Spring2018/),
-[Spring 2016](http://www.atmos.albany.edu/facstaff/brose/classes/ENV415_Spring2016/),
-[Spring 2014](http://www.atmos.albany.edu/facstaff/brose/classes/ENV480_Spring2014/)
+[Spring 2022](https://www.atmos.albany.edu/facstaff/brose/classes/ENV415_Spring2022/),
+[Spring 2020](https://www.atmos.albany.edu/facstaff/brose/classes/ENV415_Spring2020/),
+[Spring 2018](https://www.atmos.albany.edu/facstaff/brose/classes/ENV415_Spring2018/),
+[Spring 2016](https://www.atmos.albany.edu/facstaff/brose/classes/ENV415_Spring2016/),
+[Spring 2014](https://www.atmos.albany.edu/facstaff/brose/classes/ENV480_Spring2014/)
 
 *Note that the Spring 2020 version is incomplete because the course moved to Blackboard midway through the semester due to the COVID-19 shutdown.*
 
@@ -54,9 +54,9 @@ My interactive textbook [The Climate Laboratory](https://brian-rose.github.io/Cl
 was developed through several iterations of teaching this course
 and the undergraduate Climate Laboratory course.
 
-[Spring 2019](http://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2019),
-[Spring 2017](http://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2017),
-[Spring 2015](http://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2015)
+[Spring 2019](https://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2019),
+[Spring 2017](https://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2017),
+[Spring 2015](https://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2015)
 
 ## The Atmosphere (AATM 100)
 
@@ -69,10 +69,10 @@ Spring 2021: fully online/asynchronous course on Blackboard
 
 Core undergraduate course on the dynamics of large-scale atmospheric motions.
 
-[Fall 2014](http://www.atmos.albany.edu/facstaff/brose/classes/ATM316_Fall2014/)
+[Fall 2014](https://www.atmos.albany.edu/facstaff/brose/classes/ATM316_Fall2014/)
 
 ## Oceans and Climate Seminar (AATM 619)
 
 A graduate seminar on the fundamental of ocean circulation and its effects on the climate system.
 
-[Fall 2013](http://www.atmos.albany.edu/facstaff/brose/classes/ATM619_Fall2013/)
+[Fall 2013](https://www.atmos.albany.edu/facstaff/brose/classes/ATM619_Fall2013/)
