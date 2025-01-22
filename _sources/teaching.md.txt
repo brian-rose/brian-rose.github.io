@@ -54,6 +54,7 @@ My interactive textbook [The Climate Laboratory](https://brian-rose.github.io/Cl
 was developed through several iterations of teaching this course
 and the undergraduate Climate Laboratory course.
 
+[Spring 2025](https://brian-rose.github.io/atm623-spring2025/)
 [Spring 2019](https://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2019),
 [Spring 2017](https://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2017),
 [Spring 2015](https://www.atmos.albany.edu/facstaff/brose/classes/ATM623_Spring2015)
