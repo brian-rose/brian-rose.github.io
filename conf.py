@@ -56,7 +56,7 @@ html_theme = "pydata_sphinx_theme"
 
 html_theme_options = {
   "github_url": "https://github.com/brian-rose/",
-  "twitter_url": "https://twitter.com/BrianEJRose",
+#   "twitter_url": "https://twitter.com/BrianEJRose",
   "search_bar_text": "Search this site...",
   #"google_analytics_id": "UA-88310237-1",
   "search_bar_position": "navbar",
@@ -68,7 +68,8 @@ html_theme_options = {
 html_static_path = ['_static']
 # html_extra_path = ["feed.xml"]
 html_sidebars = {
-    "index": ["hello.html", "twitterfeed.html"],
+    # "index": ["hello.html", "twitterfeed.html"],
+    "index": ["hello.html"],
     "people": ["hello.html"],
     "teaching": ["hello.html"],
     "research": ["hello.html"],
