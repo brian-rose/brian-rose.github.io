@@ -63,7 +63,10 @@ current:
     
     - name: Brittany Freeman
       email: blazzaro@albany.edu
+      pic: BFreeman.jpg
+      pronouns: she / her
       github: bl-freeman
+      orcid: 0009-0006-2806-1149
       bio: >
         I am interested in polar climate change, particularly how the 
         concentration of sea ice responds in a warming climate. 
