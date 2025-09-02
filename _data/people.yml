@@ -63,14 +63,17 @@ current:
     
     - name: Brittany Freeman
       email: blazzaro@albany.edu
+      pic: BFreeman.jpg
+      pronouns: she / her
       github: bl-freeman
+      orcid: 0009-0006-2806-1149
       bio: >
         I am interested in polar climate change, particularly how the 
         concentration of sea ice responds in a warming climate. 
         Currently, I'm looking at abrupt winter sea ice loss in the 
         Arctic in high-emissions projections. My aim is to characterize 
         the temporal and spatial properties of these and identify 
-        possible catalysts. Apart from science, I enjoy playing video games, 
+        possible catalysts. Apart from science, I enjoy video games, 
         horror movies, and escape rooms.
 
 
