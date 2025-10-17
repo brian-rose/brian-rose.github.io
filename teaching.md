@@ -32,7 +32,7 @@ Fall 2020 *(course temporarily moved to the Blackboard platform, taught in hybri
 ## Climate Laboratory (AENV 415 / AATM 415)
 
 A hands-on course in climate modeling. Learn about climate science by building and using models.
-Open to students in the ATM and ENV programs (typically in junior or senior year). Offered every second Spring semester.
+Open to students in the ATM, CLM, and ENV programs (typically in junior or senior year). Offered alternate Fall semesters beginning in Fall 2025.
 
 Since 2020, this course uses my interactive textbook
 [The Climate Laboratory](https://brian-rose.github.io/ClimateLaboratoryBook/). All course content is freely available and permissively licensed through this book ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
