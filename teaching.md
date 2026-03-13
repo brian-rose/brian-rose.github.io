@@ -8,7 +8,7 @@ Links to legacy webpages for previous versions of each course are provided below
 Core undergraduate course in the ATM major. 
 The goal of this course is to understand the physical laws that govern how energy and heat are transmitted in the atmosphere.
 
-[Fall 2024](https://brian-rose.github.io/atm320-thermodynamics/), [Fall 2023](https://www.atmos.albany.edu/facstaff/brose/classes/atm320-thermodynamics/2023/)
+[Spring 2026](https://brian-rose.github.io/atm320-thermodynamics/), [Fall 2024](https://www.atmos.albany.edu/facstaff/brose/classes/atm320-thermodynamics/2024/), [Fall 2023](https://www.atmos.albany.edu/facstaff/brose/classes/atm320-thermodynamics/2023/)
 
 ## General Circulation of the Atmosphere (AATM 622)
 
