@@ -1,4 +1,4 @@
-sphinx==5.0.2
+sphinx
 recommonmark
 sphinx-markdown-tables
 sphinxcontrib-bibtex
